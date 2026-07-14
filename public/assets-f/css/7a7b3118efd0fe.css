@@ -245,12 +245,12 @@ body.home .project-slider h6.featured-projects-callout {
 }
 
 /*
-.manhattan-box.bg-skyblue {
+.ns045f9-box.bg-skyblue {
     background-color: #4aa5c4 !important;
     background-blend-mode: multiply;
 }
 
-.manhattan-box.bg-orange {
+.ns045f9-box.bg-orange {
   background-color: #ea6c26 !important;
   background-blend-mode: multiply;
 }
@@ -380,7 +380,7 @@ body.home .cc-slider-section .bottom-info .button {
   display: inline-block;
 }
 
-body.home .cc-slider-section .manhattan-box.bg-blue:before {
+body.home .cc-slider-section .ns045f9-box.bg-blue:before {
   background: #16216a;
 }
 
@@ -410,27 +410,27 @@ body.home .cc-slider-section {
   margin: 125px 0px 50px !important;
 }
 
-body.home .manhattan-box.cantera-orange::before {
+body.home .ns045f9-box.cantera-orange::before {
   background: #c75220 none repeat scroll 0 0 !important;
 }
 
-body.home .manhattan-box.cantera-yellow::before {
+body.home .ns045f9-box.cantera-yellow::before {
   background: #ee9b30 none repeat scroll 0 0 !important;
 }
 
-body.home .manhattan-box.safezone-red::before {
+body.home .ns045f9-box.safezone-red::before {
   background: #aa151b none repeat scroll 0 0 !important;
 }
 
-body.home .manhattan-box.dark-gray::before {
+body.home .ns045f9-box.dark-gray::before {
   background: #c1c1c1 none repeat scroll 0 0 !important;
 }
 
-body.home .manhattan-box.spectrum-blue::before {
+body.home .ns045f9-box.spectrum-blue::before {
   background: #07367c none repeat scroll 0 0 !important;
 }
 
-body.home .manhattan-box.black::before {
+body.home .ns045f9-box.black::before {
   background: #000 none repeat scroll 0 0 !important;
 }
 
@@ -439,7 +439,7 @@ body.home .play-btn-png {
 }
 
 @media only screen and (max-width: 768px) {
-  body.home .manhattan-box:before {
+  body.home .ns045f9-box:before {
     left: -165% !important;
   }
 
@@ -486,7 +486,7 @@ body.site-id-9 .feature-section {
   background: #aa151b !important;
 }
 
-body.home .manhattan-box.bg-orange:before {
+body.home .ns045f9-box.bg-orange:before {
   background: #ea6c26 !important;
 }
 

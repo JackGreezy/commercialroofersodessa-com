@@ -1,11 +1,11 @@
 /*
- Theme Name:   Manhattan Child Theme
- Description:  Manhattan Child Theme
+ Theme Name:   nz045f9 Child Theme
+ Description:  nz045f9 Child Theme
  Author:       YDO
  Author URI:   https://yourdesignonline.com
  Template:     twentyseventeen
  Version:      1.0.0
- Text Domain:  manhattanchild
+ Text Domain:  nz045f9child
 */
 @import "/assets-f/css/104936f4c8f32d.css";
 @import "/assets-f/css/e774938bb3c211.css";
@@ -185,7 +185,7 @@ body.home .main-slider h1, body.home .main-slider h2, body.home .main-slider h3,
     width: 100%;
 }
 /*
-ul.nav li.manhattan-menu-item-parent:hover > .submenu > ul{
+ul.nav li.ns045f9-menu-item-parent:hover > .submenu > ul{
     display: block !important;
 }
 */
@@ -298,7 +298,7 @@ body.home.page-template-what-we-do .content-header-section {
     width: 100%;
 }
 
-#mnh-menu .menu-item-has-children.manhattan-menu-item-parent.waiting > div {
+#mnh-menu .menu-item-has-children.ns045f9-menu-item-parent.waiting > div {
     visibility: hidden;
     display: none;
 }
@@ -1746,10 +1746,10 @@ min-height: 225px;
 .single .offer-contact-section {
 	margin-top: 30px;
 }
-.main-slider .slick-arrow, .manhattan-box:before, .news-by-year .panel-default>.panel-heading a i, .career-companies ul li, .career-companies ul li h2 {
+.main-slider .slick-arrow, .ns045f9-box:before, .news-by-year .panel-default>.panel-heading a i, .career-companies ul li, .career-companies ul li h2 {
 	transition: none !important
 }
-body .manhattan-box:hover:before {
+body .ns045f9-box:hover:before {
 	right: 0px !important;
 	left: -168% !important;
 }
@@ -1882,7 +1882,7 @@ body.elementor-editor-active .b3-sticky.elementor-section {position:absolute;}
   .b3-sticky.elementor-section {top:100px;}
 }
 
-.manhattan-chart {height:400px !important; width:100%;}
+.ns045f9-chart {height:400px !important; width:100%;}
 
 .single-blog {padding:50px 0;}
 h3.special-title {

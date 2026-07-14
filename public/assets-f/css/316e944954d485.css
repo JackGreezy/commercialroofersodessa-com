@@ -45,7 +45,7 @@
 .cc-slider .prevBox h2{ text-align: right; }
 .cc-slider-section .bottom-info{ text-align: center; }
 .cc-slider-section .bottom-info .button{ display: inline-block; }
-.cc-slider-section .manhattan-box.bg-blue:before{ background: #16216a; }
+.cc-slider-section .ns045f9-box.bg-blue:before{ background: #16216a; }
 
 .services-section{ position: relative; padding: 50px 0px; }
 .services-section:before{ content: " "; position: absolute; top: -1px; left: 0px; width: 0; height: 0; border-top: 70px solid #ffffff; border-right: 50px solid transparent; }
@@ -118,7 +118,7 @@
   .resources-section .slider .slide-item .img-logo-text .logo-title h6{ font-size: 0.5em; }
   .offer-contact-section .oc-offer-box{ width: 100%; margin: 0px;}
   .offer-contact-section .oc-contact-box{ width: 100%; margin: 0px;}
-  .manhattan-box:before{ left: -125%; }
+  .ns045f9-box:before{ left: -125%; }
 }
 @media only screen and (max-width: 767px)  {
   .services-section ul li{ width: 47%; margin: 10px 5px;}
