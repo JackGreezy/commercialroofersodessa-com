@@ -1,0 +1,87 @@
+#menu-ultility-menu > li > a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.contactus-box {
+    background-color: initial;
+    min-height: 185px;
+    /* height: 216px; */
+    background-image: none;
+    /* background-size: 100% auto; */
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    padding: 15px 10px 20px 14px;
+    background-size:cover !important;
+}
+.refresh-a {
+    cursor: pointer;
+}
+.contactus-box p,
+.sidebar-box.offer-box p {
+    max-width: 80%;
+    line-height: 1.92857 !important;
+}
+.sidebar-box.offer-box p {
+    font-family: "Roboto Condensed",sans-serif;
+    font-weight: bold;
+    font-size: 11px !important;
+    letter-spacing: 1px;
+}
+.contact-content .address-txt h2 {
+    font-size: 32px;
+}
+.contact-content .address-txt > h6 {
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.contact-content {
+    font-size: 16px;
+}
+.filters .dropdown-box .dropdown-value h6 {
+    letter-spacing: 1px;
+}
+.contact-content .address-txt .person h6 {
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.play-btn-png {
+    background: none no-repeat;
+    position: absolute;
+    bottom: 38%;
+    left: 38%;
+    color: #fff;
+    font-size: 80px;
+    font-weight: lighter;
+    width: 85px;
+    height: 85px;
+}
+
+body.page-template-front-home-page-php .play-btn-png {
+    bottom: 22%;
+}
+
+body.page-template-contact .resources-section h2 {
+    font-size: 33px;
+    font-weight: normal;
+}
+
+@media(min-width: 1200px) {
+    body .whoweserve-field li h5 {
+        margin-top: 0;
+    }
+
+    body.page-template-contact .resources-section .slider .slide-wrap > h5:first-child {
+        letter-spacing: 1px;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+}

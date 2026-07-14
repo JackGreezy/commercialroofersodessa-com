@@ -1,0 +1,45 @@
+{
+  "domain": "commercialroofersodessa.com",
+  "mainLocation": {
+    "city": "Odessa",
+    "state": "TX",
+    "images": [
+      "/images/locations/commercial-roofers-odessa-tx-01.webp",
+      "/images/locations/commercial-roofers-odessa-tx-02.webp",
+      "/images/locations/commercial-roofers-odessa-tx-03.webp",
+      "/images/locations/commercial-roofers-odessa-tx-04.webp",
+      "/images/locations/commercial-roofers-odessa-tx-05.webp",
+      "/images/locations/commercial-roofers-odessa-tx-06.webp",
+      "/images/locations/commercial-roofers-odessa-tx-07.webp",
+      "/images/locations/commercial-roofers-odessa-tx-08.webp"
+    ]
+  },
+  "locations": {
+    "west-odessa": "/images/locations/commercial-roofers-west-odessa-tx.webp",
+    "downtown-odessa": "/images/locations/commercial-roofers-downtown-odessa-tx.webp",
+    "andrews": "/images/locations/commercial-roofers-andrews-tx.webp",
+    "monahans": "/images/locations/commercial-roofers-monahans-tx.webp",
+    "kermit": "/images/locations/commercial-roofers-kermit-tx.webp",
+    "crane": "/images/locations/commercial-roofers-crane-tx.webp",
+    "pecos": "/images/locations/commercial-roofers-pecos-tx.webp",
+    "gardendale": "/images/locations/commercial-roofers-gardendale-tx.webp",
+    "goldsmith": "/images/locations/commercial-roofers-goldsmith-tx.webp",
+    "penwell": "/images/locations/commercial-roofers-penwell-tx.webp",
+    "wink": "/images/locations/commercial-roofers-wink-tx.webp",
+    "wickett": "/images/locations/commercial-roofers-wickett-tx.webp",
+    "pyote": "/images/locations/commercial-roofers-pyote-tx.webp",
+    "thorntonville": "/images/locations/commercial-roofers-thorntonville-tx.webp",
+    "barstow": "/images/locations/commercial-roofers-barstow-tx.webp",
+    "grandfalls": "/images/locations/commercial-roofers-grandfalls-tx.webp",
+    "royalty": "/images/locations/commercial-roofers-royalty-tx.webp",
+    "imperial": "/images/locations/commercial-roofers-imperial-tx.webp",
+    "coyanosa": "/images/locations/commercial-roofers-coyanosa-tx.webp",
+    "mccamey": "/images/locations/commercial-roofers-mccamey-tx.webp",
+    "mentone": "/images/locations/commercial-roofers-mentone-tx.webp",
+    "pleasant-farms": "/images/locations/commercial-roofers-pleasant-farms-tx.webp",
+    "frankel-city": "/images/locations/commercial-roofers-frankel-city-tx.webp",
+    "notrees": "/images/locations/commercial-roofers-notrees-tx.webp",
+    "toyah": "/images/locations/commercial-roofers-toyah-tx.webp",
+    "verhalen": "/images/locations/commercial-roofers-verhalen-tx.webp"
+  }
+}

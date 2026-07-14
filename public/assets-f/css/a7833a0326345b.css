@@ -1,0 +1,30 @@
+a, .button, .navbar-header button.navbar-toggle:not(.collapsed), .navbar-header button.navbar-toggle:not(.collapsed) .icon-bar, .tabs li a, .services-section ul li, .filters .dropdown-box .dropdown-list li, .resources ul li{
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out;
+}
+.main-menu li .submenu{
+	-webkit-transition: visibility 0s, opacity 0.5s ease;
+    -moz-transition: visibility 0s, opacity 0.5s ease;
+    -o-transition: visibility 0s, opacity 0.5s ease;
+    transition: visibility 0s, opacity 0.5s ease;
+}
+.filters .dropdown-box .dropdown-list-wrap{
+    -webkit-transition: visibility 0s, opacity 0.2s ease;
+    -moz-transition: visibility 0s, opacity 0.2s ease;
+    -o-transition: visibility 0s, opacity 0.2s ease;
+    transition: visibility 0s, opacity 0.2s ease;
+}
+.main-slider .slick-arrow, .manhattan-box:before, .news-by-year .panel-default>.panel-heading a i, .career-companies ul li, .career-companies ul li h2{
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out;	
+}
+.member-detail .member-contact span a{
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out; 
+}

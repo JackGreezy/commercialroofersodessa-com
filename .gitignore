@@ -1,0 +1,4 @@
+qa-out/
+public/*.html.ref
+public/capture-manifest.json
+.DS_Store

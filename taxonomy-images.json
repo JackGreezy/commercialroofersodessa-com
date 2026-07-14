@@ -1,0 +1,66 @@
+{
+  "services": {
+    "acrylic-roof-coatings": "/images/services/acrylic-roof-coatings-commercial-roofers-odessa-tx.webp",
+    "built-up-roofing": "/images/services/built-up-roofing-commercial-roofers-odessa-tx.webp",
+    "commercial-reroofing": "/images/services/commercial-reroofing-commercial-roofers-odessa-tx.webp",
+    "commercial-roof-inspection": "/images/services/commercial-roof-inspection-commercial-roofers-odessa-tx.webp",
+    "commercial-roof-leak-repair": "/images/services/commercial-roof-leak-repair-commercial-roofers-odessa-tx.webp",
+    "commercial-roof-tear-off-replacement": "/images/services/commercial-roof-tear-off-replacement-commercial-roofers-odessa-tx.webp",
+    "edge-metal-coping-gutters": "/images/services/edge-metal-coping-gutters-commercial-roofers-odessa-tx.webp",
+    "emergency-tarp-dry-in": "/images/services/emergency-tarp-dry-in-commercial-roofers-odessa-tx.webp",
+    "epdm-commercial-roofing": "/images/services/epdm-commercial-roofing-commercial-roofers-odessa-tx.webp",
+    "insurance-documentation-support": "/images/services/insurance-documentation-support-commercial-roofers-odessa-tx.webp",
+    "metal-r-panel-roofing": "/images/services/metal-r-panel-roofing-commercial-roofers-odessa-tx.webp",
+    "modified-bitumen-roofing": "/images/services/modified-bitumen-roofing-commercial-roofers-odessa-tx.webp",
+    "preventive-maintenance-programs": "/images/services/preventive-maintenance-programs-commercial-roofers-odessa-tx.webp",
+    "pvc-roofing": "/images/services/pvc-roofing-commercial-roofers-odessa-tx.webp",
+    "roof-drains-scuppers": "/images/services/roof-drains-scuppers-commercial-roofers-odessa-tx.webp",
+    "roof-recover-overlay": "/images/services/roof-recover-overlay-commercial-roofers-odessa-tx.webp",
+    "silicone-roof-coatings": "/images/services/silicone-roof-coatings-commercial-roofers-odessa-tx.webp",
+    "standing-seam-metal-roofing": "/images/services/standing-seam-metal-roofing-commercial-roofers-odessa-tx.webp",
+    "storm-damage-roof-repair": "/images/services/storm-damage-roof-repair-commercial-roofers-odessa-tx.webp",
+    "tpo-single-ply-roofing": "/images/services/tpo-single-ply-roofing-commercial-roofers-odessa-tx.webp"
+  },
+  "roof-systems": {
+    "epdm-black": "/images/roof-systems/epdm-black-commercial-roofers-odessa-tx.webp",
+    "epdm-white": "/images/roof-systems/epdm-white-commercial-roofers-odessa-tx.webp",
+    "modified-bitumen-sbs": "/images/roof-systems/modified-bitumen-sbs-commercial-roofers-odessa-tx.webp",
+    "pvc-roof-systems": "/images/roof-systems/pvc-roof-systems-commercial-roofers-odessa-tx.webp",
+    "silicone-roof-coating": "/images/roof-systems/silicone-roof-coating-commercial-roofers-odessa-tx.webp",
+    "spray-polyurethane-foam": "/images/roof-systems/spray-polyurethane-foam-commercial-roofers-odessa-tx.webp",
+    "tpo-60-mil": "/images/roof-systems/tpo-60-mil-commercial-roofers-odessa-tx.webp",
+    "tpo-80-mil": "/images/roof-systems/tpo-80-mil-commercial-roofers-odessa-tx.webp"
+  },
+  "industries": {
+    "education-facilities": "/images/industries/education-facilities-commercial-roofers-odessa-tx.webp",
+    "general-contractors": "/images/industries/general-contractors-commercial-roofers-odessa-tx.webp",
+    "government-public-sector": "/images/industries/government-public-sector-commercial-roofers-odessa-tx.webp",
+    "healthcare-systems": "/images/industries/healthcare-systems-commercial-roofers-odessa-tx.webp",
+    "insurance-restoration": "/images/industries/insurance-restoration-commercial-roofers-odessa-tx.webp",
+    "manufacturing-operators": "/images/industries/manufacturing-operators-commercial-roofers-odessa-tx.webp",
+    "property-management-firms": "/images/industries/property-management-firms-commercial-roofers-odessa-tx.webp",
+    "retail-chain-operators": "/images/industries/retail-chain-operators-commercial-roofers-odessa-tx.webp"
+  },
+  "project-types": {
+    "auto-dealership-roofing": "/images/project-types/auto-dealership-roofing-commercial-roofers-odessa-tx.webp",
+    "big-box-retail-roofing": "/images/project-types/big-box-retail-roofing-commercial-roofers-odessa-tx.webp",
+    "distribution-center-roofing": "/images/project-types/distribution-center-roofing-commercial-roofers-odessa-tx.webp",
+    "government-municipal-roofing": "/images/project-types/government-municipal-roofing-commercial-roofers-odessa-tx.webp",
+    "grocery-store-roofing": "/images/project-types/grocery-store-roofing-commercial-roofers-odessa-tx.webp",
+    "hotel-hospitality-roofing": "/images/project-types/hotel-hospitality-roofing-commercial-roofers-odessa-tx.webp",
+    "industrial-flex-space-roofing": "/images/project-types/industrial-flex-space-roofing-commercial-roofers-odessa-tx.webp",
+    "manufacturing-plant-roofing": "/images/project-types/manufacturing-plant-roofing-commercial-roofers-odessa-tx.webp",
+    "medical-office-building-roofing": "/images/project-types/medical-office-building-roofing-commercial-roofers-odessa-tx.webp",
+    "restaurant-standalone-roofing": "/images/project-types/restaurant-standalone-roofing-commercial-roofers-odessa-tx.webp",
+    "self-storage-facility-roofing": "/images/project-types/self-storage-facility-roofing-commercial-roofers-odessa-tx.webp",
+    "warehouse-roofing": "/images/project-types/warehouse-roofing-commercial-roofers-odessa-tx.webp"
+  },
+  "manufacturers": {
+    "carlisle-syntec": "/images/manufacturers/carlisle-syntec-commercial-roofers-odessa-tx.webp",
+    "gaf-commercial": "/images/manufacturers/gaf-commercial-commercial-roofers-odessa-tx.webp",
+    "holcim-elevate": "/images/manufacturers/holcim-elevate-commercial-roofers-odessa-tx.webp",
+    "johns-manville": "/images/manufacturers/johns-manville-commercial-roofers-odessa-tx.webp",
+    "sika-sarnafil": "/images/manufacturers/sika-sarnafil-commercial-roofers-odessa-tx.webp",
+    "versico": "/images/manufacturers/versico-commercial-roofers-odessa-tx.webp"
+  }
+}

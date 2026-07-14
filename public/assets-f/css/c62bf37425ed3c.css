@@ -1,0 +1,52 @@
+.whoweare-content{ margin-top: 0px; padding-bottom: 50px;}
+.whoweare-content h1{ color: #16216a; width: 80%; position: relative;}
+.whoweare-content h1:before{ content: "\f105"; position: absolute; font: normal normal normal 14px/1 FontAwesome; font-size: 50px; left: -30px;  color: #cccccc;}
+.our-values-section { color: #ffffff; }
+.our-values-section .values-box{ background-color: #07367c; padding: 50px 0px;}
+.our-values-section h2{ font-weight: 400; color: #e7a61e; }
+.our-values-section .values-box ul{ list-style: none; padding: 0px; }
+.our-values-section .values-box ul li{ margin-bottom: 20px; margin-right: 50px; width: 26%; float: left; min-height: 250px; }
+.our-values-section .values-box ul li h4{ text-transform: uppercase; letter-spacing: 1px; line-height: 1.5em;}
+.our-values-section p{ letter-spacing: 0.5px; line-height: 2em;}
+.our-values-section .section-icon{ padding: 0px; }
+.our-values-section .section-icon img{ width: 100%; margin-top: 30px; }
+.our-values-section .vision-box{ background-color: #043071; padding: 50px 0px;}
+.our-values-section .vision-box p, .our-values-section .purpose-box p{ margin-top: 20px; }
+.our-values-section .purpose-box{ background-color: #07367c; padding: 50px 0px;}
+.video-content{ margin: 0px; padding: 50px 0px; }
+.video-content h2{ margin-bottom: 30px; color: #07367c; font-weight: 400; }
+.video-content .video-box{ min-height: 250px; position: relative;}
+.video-content .video-box .expand-wrap{ position: absolute; z-index: 0; width: 100%; height: 100%; background-size: cover; }
+.video-content .video-box:before{ content: " "; background-image: none; position: absolute; width: 100%; height: 100%; background-size: auto 120%; background-repeat: no-repeat; background-position: center top; z-index: 9; opacity: 0.5;}
+.video-content .video-box .play-btn{ position: absolute; bottom: 30%; width: 100%; text-align: center; color: #fff; font-size: 50px; font-weight: lighter; z-index: 99;}
+.video-content .video-text{ margin-top: 56px; }
+.video-content .video-text p{ font-weight: 500; line-height: 1.6em; }
+.whoweare-tab-section{ padding: 50px 0px; }
+.whoweare-tab-section .tabs{ margin-bottom: 25px; padding-bottom: 15px; border-bottom: solid 1px #f1f1f2; }
+.whoweare-tab-section .tabs li{ min-width: 33%; }
+.whoweare-tab-section .tabs li a, .whoweare-tab-section .tabs li a:hover, .whoweare-tab-section .tabs li.active a{ background: transparent; color: #555555; padding: 8px 10px 8px 25px;}
+.whoweare-tab-section .tabs li.active a{ background-image: none; background-size: cover; background-repeat: no-repeat; border-radius: 0px;}
+.whoweare-tab-section h2{ font-weight: 400; color: #e7a61e; }
+.whoweare-tab-section p{ letter-spacing: 0.5px; line-height: 2em;}
+.whoweare-tab-section img{ max-width: 100%; }
+
+@media only screen and (min-width: 769px)  {
+  .our-values-section .vision-box .clearfix, .our-values-section .purpose-box .clearfix{ display: none; }
+}
+@media only screen and (max-width: 1024px)  {
+  .our-values-section .values-box ul li{ margin-right: 45px;}
+}
+@media only screen and (max-width: 768px)  {
+  .our-values-section .values-box ul li{ margin-right: 20px; width: 46%; min-height: 150px;}
+  .our-values-section p{ line-height: 1.5em; }
+  .whoweare-tab-section .tabs li{ min-width: 49%; }
+}
+@media only screen and (max-width: 767px)  {
+  .our-values-section .section-icon{ text-align: center; }
+  .our-values-section .section-icon img{ width: 60px; }
+  .our-values-section h2{ text-align: center; }
+  .our-values-section .values-box ul li{ margin-bottom: 20px; margin-right: 0px; width: 100%; float: none; min-height: 0px; }
+  .video-content h2{ text-align: center;}
+  .video-content .view-more-btn{ text-align: center; }
+  .whoweare-tab-section .tabs li{ min-width: 100%; }
+}
