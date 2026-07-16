@@ -286,9 +286,9 @@ body.site-id-6 .navbar>.container .navbar-brand {padding-top:5px;}
   */
 }
 
-body.elementor-editor-active .elementor-column {min-width:50px !important;}
-.elementor-section.cols-w-auto > .elementor-container > .elementor-column {width:auto !important;}
-.elementor-section.cols-center > .elementor-container {justify-content: center;}
+body.cpkrbel-editor-active .cpkrbel-column {min-width:50px !important;}
+.cpkrbel-section.cols-w-auto > .cpkrbel-container > .cpkrbel-column {width:auto !important;}
+.cpkrbel-section.cols-center > .cpkrbel-container {justify-content: center;}
 
 .chart-legend {
   display:flex;

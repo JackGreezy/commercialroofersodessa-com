@@ -1870,16 +1870,16 @@ th, tr, td {
     padding: 15px;
 }
 
-body.elementor-editor-active .readyUntill {display:block;}
-body.elementor-editor-active {padding-top:140px;}
+body.cpkrbel-editor-active .readyUntill {display:block;}
+body.cpkrbel-editor-active {padding-top:140px;}
 
-.b3-sticky.elementor-section {position:fixed; left:0; right:0; z-index:998;}
-.b3-sticky.elementor-section {top:112px;}
-body.admin-bar .b3-sticky.elementor-section {top:144px;}
-body.elementor-editor-active .b3-sticky.elementor-section {position:absolute;}
+.b3-sticky.cpkrbel-section {position:fixed; left:0; right:0; z-index:998;}
+.b3-sticky.cpkrbel-section {top:112px;}
+body.admin-bar .b3-sticky.cpkrbel-section {top:144px;}
+body.cpkrbel-editor-active .b3-sticky.cpkrbel-section {position:absolute;}
 
 @media (max-width:1021px) {
-  .b3-sticky.elementor-section {top:100px;}
+  .b3-sticky.cpkrbel-section {top:100px;}
 }
 
 .ns045f9-chart {height:400px !important; width:100%;}
