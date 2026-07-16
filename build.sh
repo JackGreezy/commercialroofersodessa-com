@@ -24,6 +24,7 @@ python3 "$S/normalize_content.py" "$PROJ" --voice "$VOICE"
 mkdir -p "$PROJ/public/ours"
 cp -R "$PROJ/public/images/." "$PROJ/public/ours/" 2>/dev/null || true
 python3 "$S/relabel_engine.py" --config "$CFG" --map "$MAP" --voice "$VOICE"
+python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/CONTACT-SHEET.html"
