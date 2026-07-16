@@ -15,14 +15,37 @@
   "wordmark_l1": "Commercial Roofers",
   "wordmark_l2": "of Odessa",
   "nav": [
-    ["Services", "/services"],
-    ["Roof Systems", "/roof-systems"],
-    ["Industries", "/industries"],
-    ["Project Types", "/project-types"],
-    ["Service Areas", "/locations"],
-    ["Contact", "/contact"]
+    [
+      "Services",
+      "/services"
+    ],
+    [
+      "Roof Systems",
+      "/roof-systems"
+    ],
+    [
+      "Industries",
+      "/industries"
+    ],
+    [
+      "Project Types",
+      "/project-types"
+    ],
+    [
+      "Service Areas",
+      "/locations"
+    ],
+    [
+      "Contact",
+      "/contact"
+    ]
   ],
-  "cta": ["Request a Roof Assessment", "/contact"],
+  "cta": [
+    "Request a Roof Assessment",
+    "/contact"
+  ],
   "ref_host": "manhattanconstructiongroup-com",
-  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json"
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
+  "privacyEffectiveDate": "January 26, 2026",
+  "termsEffectiveDate": "May 5, 2026"
 }
