@@ -122,6 +122,57 @@ html body ::selection{background:var(--rh-accent);color:var(--rh-button-text);}
 html body .rh-seo-dropdown-menu{border-top:4px solid var(--rh-accent)!important;}
 html body .rh-seo-dropdown-menu a:hover,html body .rh-seo-dropdown-menu a:focus{background:var(--rh-surface)!important;color:var(--rh-primary)!important;}
 @media(max-width:900px){html body header,html body #header,html body .site-header{background:var(--rh-primary)!important;}}
+</style><style id="rh-odessa-visual-fix">
+/* Odessa donor repair: visible header, mapped image modules, reduced empty space */
+html body #header,
+html body #header .navbar,
+html body #header .navbar-default,
+html body #header .nav-container,
+html body #header .mainnav,
+html body #header .menus{background:linear-gradient(135deg,#123650,#1c6a7d)!important;color:#fff!important;}
+html body #header .navbar{height:96px!important;min-height:96px!important;border:0!important;box-shadow:0 12px 28px rgba(0,0,0,.18)!important;}
+html body #header .nav-container{height:96px!important;min-height:96px!important;display:flex!important;align-items:center!important;gap:28px!important;}
+html body #header .navbar-header{height:96px!important;min-height:96px!important;align-items:center!important;}
+html body #header .navbar-brand,
+html body #header .navbar-brand span,
+html body #header #mnh-menu>li>a,
+html body #header .dropdown-toggle{color:#fff!important;text-shadow:0 1px 8px rgba(0,0,0,.25)!important;}
+html body #header #mnh-menu{height:96px!important;min-height:96px!important;align-items:center!important;}
+html body #header #mnh-menu>li>a{height:auto!important;line-height:1.2!important;padding:22px 10px!important;}
+html body .main-slider,
+html body .main-slider .slick-list,
+html body .main-slider .slick-track,
+html body .main-slider .slick-slide,
+html body .main-slider .slide-item{min-height:0!important;height:680px!important;max-height:72vh!important;}
+html body .main-slider .slide-item{background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important;}
+html body .main-slider .slide-content-wrap{padding-top:92px!important;}
+html body .cc-slider-section,
+html body .cc-slider-section .right,
+html body .homepage-edits-container{height:auto!important;min-height:0!important;}
+html body #blocks.cc-slider-home{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:24px!important;width:min(1180px,calc(100% - 48px))!important;height:auto!important;min-height:0!important;margin:36px auto 54px!important;}
+html body #blocks.cc-slider-home .slide-item{position:relative!important;left:auto!important;top:auto!important;right:auto!important;bottom:auto!important;display:flex!important;align-items:flex-end!important;width:auto!important;height:360px!important;min-height:360px!important;max-height:none!important;margin:0!important;background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important;overflow:hidden!important;}
+html body #blocks.cc-slider-home .slide-item:before{content:""!important;position:absolute!important;inset:0!important;background:linear-gradient(180deg,rgba(0,0,0,.10),rgba(0,0,0,.68))!important;z-index:0!important;}
+html body #blocks.cc-slider-home .slide-text{position:relative!important;left:auto!important;right:auto!important;top:auto!important;bottom:auto!important;width:100%!important;height:auto!important;min-height:0!important;padding:26px 28px 78px!important;color:#fff!important;z-index:1!important;background:transparent!important;}
+html body #blocks.cc-slider-home .slide-text h2,
+html body #blocks.cc-slider-home .slide-text p{color:#fff!important;text-shadow:0 1px 8px rgba(0,0,0,.4)!important;}
+html body #blocks.cc-slider-home .button{position:absolute!important;left:28px!important;bottom:26px!important;z-index:2!important;margin:0!important;}
+html body .cta-section-container{display:block!important;background:#123650!important;padding:56px 0!important;min-height:0!important;height:auto!important;}
+html body .cta-section-container .feature-section{float:none!important;width:100%!important;max-width:1180px!important;margin:0 auto!important;height:auto!important;min-height:0!important;}
+html body .cta-section-container .container{width:100%!important;max-width:1180px!important;height:auto!important;min-height:0!important;margin:0 auto!important;padding:0 24px!important;}
+html body .cta-section-container .project-webcam{float:none!important;width:100%!important;max-width:1040px!important;margin:0 auto!important;height:auto!important;min-height:0!important;}
+html body .cta-section-container .clearfix{height:auto!important;min-height:0!important;}
+html body .cta-section-container .video-block{height:auto!important;min-height:0!important;margin:0 0 34px!important;padding:0!important;}
+html body .cta-section-container .video-block img{display:block!important;width:100%!important;height:320px!important;object-fit:cover!important;object-position:center!important;}
+html body .contact-img{background-size:cover!important;background-position:center!important;background-repeat:no-repeat!important;min-height:360px!important;}
+@media(max-width:900px){
+  html body #header,html body #header .navbar{height:76px!important;min-height:76px!important;}
+  html body #header .nav-container,html body #header .navbar-header{height:76px!important;min-height:76px!important;}
+  html body .main-slider,html body .main-slider .slick-list,html body .main-slider .slick-track,html body .main-slider .slick-slide,html body .main-slider .slide-item{height:520px!important;max-height:none!important;}
+  html body #blocks.cc-slider-home{grid-template-columns:1fr!important;margin:24px auto 34px!important;}
+  html body #blocks.cc-slider-home .slide-item{height:300px!important;min-height:300px!important;}
+  html body .cta-section-container{padding:34px 0!important;}
+  html body .cta-section-container .video-block img{height:220px!important;}
+}
 </style></head>
 <body class="projects-template-default single single-projects postid-9690 wp-custom-logo wp-embed-responsive blue-page site-id-5 group-blog has-header-image has-sidebar colors-light elementor-default elementor-kit-11143" id="main">
 <div class="site" id="page">
