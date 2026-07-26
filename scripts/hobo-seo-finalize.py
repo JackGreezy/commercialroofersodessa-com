@@ -415,6 +415,22 @@ def ensure_odessa_visual_fixes(soup: BeautifulSoup):
     if BIZ.get("domain") != "commercialroofersodessa.com":
         return
     soup = ensure_head(soup)
+    burger = soup.select_one(".rr-burger")
+    if burger:
+        burger.attrs.pop("onclick", None)
+    close_button = soup.select_one(".rr-x")
+    if close_button:
+        close_button.attrs.pop("onclick", None)
+    scrim = soup.select_one(".rr-scrim")
+    if scrim:
+        scrim.attrs.pop("onclick", None)
+    nav_script = soup.find("script", id="rr-nav")
+    if nav_script:
+        nav_script.decompose()
+    if soup.body and not soup.find("script", id="odessa-site-js"):
+        site_script = soup.new_tag("script", id="odessa-site-js", src="/site.js")
+        site_script["defer"] = ""
+        soup.body.append(site_script)
     palette = selected_palette()
     for old in list(soup.head.find_all("style", id="rh-odessa-visual-fix")):
         old.decompose()
