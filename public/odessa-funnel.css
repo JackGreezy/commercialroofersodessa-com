@@ -1,0 +1,820 @@
+:root {
+  --odessa-blue: #002f6c;
+  --odessa-blue-deep: #071f35;
+  --odessa-sky: #6cbed4;
+  --odessa-orange: #d56a2b;
+  --odessa-yellow: #f4c531;
+  --odessa-paper: #f3f1ec;
+  --odessa-ink: #19242e;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.odessa-header-help > a {
+  background: var(--odessa-orange) !important;
+  color: #fff !important;
+  font-weight: 800 !important;
+}
+
+#footer .rr-footer-brand-logo {
+  display: block !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: min(300px, 80vw) !important;
+  max-height: 72px !important;
+}
+
+.odessa-main {
+  padding-top: 110px;
+  color: var(--odessa-ink);
+}
+
+.odessa-main h1,
+.odessa-main h2,
+.odessa-main h3,
+.odessa-main p {
+  margin-top: 0;
+}
+
+.odessa-main p {
+  font-size: 17px;
+  line-height: 1.68;
+}
+
+.odessa-kicker {
+  display: block;
+  margin-bottom: 16px;
+  color: var(--odessa-orange);
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+.odessa-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 13px 22px;
+  border: 2px solid transparent;
+  background: var(--odessa-yellow);
+  color: var(--odessa-blue-deep) !important;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .09em;
+  line-height: 1.25;
+  text-decoration: none !important;
+  text-transform: uppercase;
+}
+
+.odessa-button:hover,
+.odessa-button:focus {
+  background: #fff;
+  color: var(--odessa-blue) !important;
+}
+
+.odessa-button--outline {
+  border-color: rgba(255, 255, 255, .8);
+  background: transparent;
+  color: #fff !important;
+}
+
+.odessa-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.9fr) minmax(330px, .8fr);
+  min-height: 700px;
+  background: var(--odessa-blue-deep);
+}
+
+.odessa-hero__media {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  min-height: 700px;
+  overflow: hidden;
+}
+
+.odessa-hero__media > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.odessa-hero__media::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+  background: linear-gradient(90deg, rgba(3, 26, 47, .84), rgba(3, 26, 47, .26));
+}
+
+.odessa-hero__copy {
+  position: relative;
+  z-index: 1;
+  width: min(760px, calc(100% - 72px));
+  padding: 80px 0 72px 6vw;
+  color: #fff;
+}
+
+.odessa-hero__copy .odessa-kicker {
+  color: var(--odessa-yellow);
+}
+
+.odessa-hero h1 {
+  max-width: 760px;
+  margin-bottom: 24px;
+  color: #fff;
+  font-size: clamp(46px, 6vw, 92px);
+  font-weight: 900;
+  letter-spacing: -.035em;
+  line-height: .97;
+  text-transform: uppercase;
+}
+
+.odessa-hero__copy > p {
+  max-width: 670px;
+  margin-bottom: 28px;
+  color: #fff;
+  font-size: clamp(18px, 1.5vw, 23px);
+}
+
+.odessa-hero__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.odessa-hero__actions {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.odessa-hero__actions article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 0;
+  padding: 40px;
+  background: var(--odessa-blue);
+  color: #fff;
+  border-bottom: 1px solid rgba(255, 255, 255, .2);
+}
+
+.odessa-hero__actions article:nth-child(2) {
+  background: var(--odessa-sky);
+  color: var(--odessa-blue-deep);
+}
+
+.odessa-hero__actions article:nth-child(3) {
+  background: var(--odessa-orange);
+}
+
+.odessa-hero__actions span {
+  margin-bottom: 12px;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.odessa-hero__actions h2 {
+  margin-bottom: 14px;
+  color: inherit;
+  font-size: clamp(24px, 2.2vw, 36px);
+  font-weight: 900;
+  line-height: 1.05;
+}
+
+.odessa-hero__actions p {
+  margin-bottom: 18px;
+  color: inherit;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.odessa-hero__actions a {
+  color: inherit !important;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.odessa-decision-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  background: #fff;
+  border-bottom: 1px solid #dcdfe2;
+}
+
+.odessa-decision-strip a {
+  min-height: 140px;
+  padding: 34px 30px;
+  border-right: 1px solid #dcdfe2;
+  color: var(--odessa-ink) !important;
+  text-decoration: none !important;
+}
+
+.odessa-decision-strip span {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--odessa-orange);
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.odessa-decision-strip strong {
+  display: block;
+  font-size: 19px;
+  line-height: 1.25;
+}
+
+.odessa-story,
+.odessa-inspection,
+.odessa-options,
+.odessa-markets,
+.odessa-faq,
+.odessa-lead {
+  padding: 92px max(24px, calc((100vw - 1180px) / 2));
+}
+
+.odessa-story {
+  display: grid;
+  grid-template-columns: .75fr 1.25fr;
+  gap: 70px;
+  background: var(--odessa-paper);
+}
+
+.odessa-story h2,
+.odessa-options h2,
+.odessa-markets h2,
+.odessa-faq h2,
+.odessa-lead h2 {
+  color: var(--odessa-blue-deep);
+  font-size: clamp(40px, 5vw, 70px);
+  font-weight: 900;
+  letter-spacing: -.035em;
+  line-height: 1;
+}
+
+.odessa-story__body {
+  max-width: 720px;
+}
+
+.odessa-story__body p:first-child {
+  font-size: 23px;
+  line-height: 1.5;
+}
+
+.odessa-inspection {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, .9fr);
+  align-items: stretch;
+  gap: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  background: #fff;
+}
+
+.odessa-inspection__image {
+  min-height: 620px;
+}
+
+.odessa-inspection__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.odessa-inspection__copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 70px 8%;
+  background: var(--odessa-blue);
+  color: #fff;
+}
+
+.odessa-inspection__copy .odessa-kicker {
+  color: var(--odessa-yellow);
+}
+
+.odessa-inspection__copy h2 {
+  margin-bottom: 22px;
+  color: #fff;
+  font-size: clamp(38px, 4vw, 62px);
+  font-weight: 900;
+  line-height: 1;
+}
+
+.odessa-inspection__copy p {
+  color: #fff;
+}
+
+.odessa-checks {
+  margin: 8px 0 28px;
+  padding: 0;
+  list-style: none;
+}
+
+.odessa-checks li {
+  padding: 12px 0;
+  border-top: 1px solid rgba(255, 255, 255, .22);
+  font-weight: 700;
+}
+
+.odessa-checks li:last-child {
+  border-bottom: 1px solid rgba(255, 255, 255, .22);
+}
+
+.odessa-service-plan {
+  position: relative;
+  min-height: 620px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 70px max(24px, calc((100vw - 1180px) / 2));
+  overflow: hidden;
+  background: var(--odessa-blue-deep);
+}
+
+.odessa-service-plan > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.odessa-service-plan::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+  background: linear-gradient(90deg, rgba(2, 27, 50, .18), rgba(2, 27, 50, .88));
+}
+
+.odessa-service-plan__card {
+  position: relative;
+  z-index: 1;
+  width: min(560px, 100%);
+  padding: 56px;
+  background: var(--odessa-orange);
+  color: #fff;
+}
+
+.odessa-service-plan__card h2 {
+  margin-bottom: 22px;
+  color: #fff;
+  font-size: clamp(38px, 4vw, 58px);
+  font-weight: 900;
+  line-height: 1;
+}
+
+.odessa-service-plan__card p {
+  color: #fff;
+}
+
+.odessa-options {
+  background: var(--odessa-paper);
+}
+
+.odessa-options__head {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: end;
+  gap: 50px;
+  margin-bottom: 45px;
+}
+
+.odessa-options__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 5px solid var(--odessa-blue);
+}
+
+.odessa-options article {
+  min-height: 335px;
+  padding: 42px 34px;
+  background: #fff;
+  border-right: 1px solid #d7d9db;
+}
+
+.odessa-options article:last-child {
+  border-right: 0;
+}
+
+.odessa-options article span {
+  color: var(--odessa-orange);
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+
+.odessa-options article h3 {
+  margin: 18px 0 14px;
+  color: var(--odessa-blue-deep);
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.odessa-options article a {
+  color: var(--odessa-blue) !important;
+  font-weight: 900;
+}
+
+.odessa-markets {
+  background: #fff;
+}
+
+.odessa-markets__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 42px;
+}
+
+.odessa-market {
+  position: relative;
+  min-height: 430px;
+  overflow: hidden;
+  color: #fff;
+}
+
+.odessa-market img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.odessa-market::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+  background: linear-gradient(0deg, rgba(4, 25, 43, .94), rgba(4, 25, 43, .08));
+}
+
+.odessa-market__copy {
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 32px;
+}
+
+.odessa-market h3,
+.odessa-market p {
+  color: #fff;
+}
+
+.odessa-market h3 {
+  font-size: 27px;
+  font-weight: 900;
+}
+
+.odessa-market p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.odessa-market a {
+  color: var(--odessa-yellow) !important;
+  font-weight: 900;
+}
+
+.odessa-faq {
+  background: var(--odessa-blue-deep);
+  color: #fff;
+}
+
+.odessa-faq h2 {
+  color: #fff;
+}
+
+.odessa-faq__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  margin-top: 42px;
+  background: rgba(255, 255, 255, .2);
+}
+
+.odessa-faq article {
+  padding: 34px;
+  background: var(--odessa-blue);
+}
+
+.odessa-faq h3,
+.odessa-faq p {
+  color: #fff;
+}
+
+.odessa-faq h3 {
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.odessa-lead {
+  display: grid;
+  grid-template-columns: .8fr 1.2fr;
+  gap: 70px;
+  background: var(--odessa-sky);
+}
+
+.odessa-lead h2 {
+  margin-bottom: 20px;
+}
+
+.odessa-lead form,
+.contact-content form[data-contact-form] {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  padding: 34px;
+  background: #fff;
+  box-shadow: 0 18px 45px rgba(8, 34, 57, .16);
+}
+
+.odessa-lead label {
+  display: grid;
+  gap: 7px;
+  color: var(--odessa-blue-deep);
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.odessa-form-wide,
+.odessa-lead form button,
+.odessa-form-status {
+  grid-column: 1 / -1;
+}
+
+.odessa-lead input,
+.odessa-lead select,
+.odessa-lead textarea,
+.contact-content form[data-contact-form] input,
+.contact-content form[data-contact-form] select,
+.contact-content form[data-contact-form] textarea {
+  width: 100%;
+  min-height: 50px;
+  padding: 12px 14px;
+  border: 1px solid #cbd2d7;
+  background: #fff;
+  color: var(--odessa-ink);
+  box-sizing: border-box;
+}
+
+.odessa-lead textarea,
+.contact-content form[data-contact-form] textarea {
+  min-height: 126px;
+  resize: vertical;
+}
+
+.odessa-lead button,
+.contact-content form[data-contact-form] button {
+  min-height: 52px;
+  border: 0;
+  background: var(--odessa-orange) !important;
+  color: #fff !important;
+  font-weight: 900;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.odessa-form-status {
+  min-height: 24px;
+  margin: 0;
+  font-size: 14px !important;
+  font-weight: 800;
+}
+
+.odessa-form-status[data-state="success"] {
+  color: #176b39;
+}
+
+.odessa-form-status[data-state="error"] {
+  color: #a32622;
+}
+
+.contact-content {
+  padding-top: 40px !important;
+  padding-bottom: 70px !important;
+}
+
+.contact-content form[data-contact-form] {
+  margin-top: 30px;
+}
+
+.contact-content form[data-contact-form] .form-group {
+  margin: 0;
+}
+
+.contact-content form[data-contact-form] .form-group:has(textarea),
+.contact-content form[data-contact-form] button,
+.contact-content form[data-contact-form] .odessa-form-status {
+  grid-column: 1 / -1;
+}
+
+.odessa-sticky-help {
+  display: none;
+}
+
+@media (max-width: 1180px) {
+  .odessa-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .odessa-hero__actions {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: auto;
+  }
+
+  .odessa-hero__actions article {
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 991px) {
+  html body .navbar-collapse.collapse.menus[data-rr-mobile] {
+    position: fixed !important;
+    inset: 0 0 0 auto !important;
+    width: min(86vw, 320px) !important;
+    max-width: min(86vw, 320px) !important;
+    height: 100dvh !important;
+    min-height: 100dvh !important;
+    padding: 72px 24px 28px !important;
+    overflow-y: auto !important;
+    background: #002f6c !important;
+    z-index: 1202 !important;
+  }
+
+  html body:not(.rr-nav-open) .navbar-collapse.collapse.menus[data-rr-mobile] {
+    transform: translateX(110%) !important;
+  }
+
+  html body.rr-nav-open .navbar-collapse.collapse.menus[data-rr-mobile] {
+    transform: translateX(0) !important;
+  }
+
+  html body.rr-nav-open .rr-scrim {
+    z-index: 1201 !important;
+  }
+
+  html body.rr-nav-open .rr-x {
+    position: absolute !important;
+    top: 14px !important;
+    right: 14px !important;
+    left: auto !important;
+    color: #fff !important;
+  }
+
+  .odessa-main {
+    padding-top: 84px;
+  }
+
+  .odessa-header-help {
+    display: none !important;
+  }
+
+  .odessa-story,
+  .odessa-inspection,
+  .odessa-options__head,
+  .odessa-lead {
+    grid-template-columns: 1fr;
+  }
+
+  .odessa-story,
+  .odessa-options,
+  .odessa-markets,
+  .odessa-faq,
+  .odessa-lead {
+    padding: 68px 26px;
+  }
+
+  .odessa-decision-strip,
+  .odessa-options__grid,
+  .odessa-markets__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .odessa-inspection {
+    padding: 0;
+  }
+
+  .odessa-inspection__image {
+    min-height: 440px;
+  }
+
+  .odessa-sticky-help {
+    position: fixed;
+    right: 17px;
+    bottom: 17px;
+    z-index: 2147482990;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 118px;
+    min-height: 52px;
+    padding: 10px 17px;
+    border: 3px solid #fff;
+    background: var(--odessa-orange);
+    color: #fff !important;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, .28);
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: .05em;
+    text-decoration: none !important;
+    text-transform: uppercase;
+  }
+}
+
+@media (max-width: 680px) {
+  .odessa-hero__media {
+    min-height: 650px;
+  }
+
+  .odessa-hero__copy {
+    width: calc(100% - 38px);
+    padding: 70px 0 48px 19px;
+  }
+
+  .odessa-hero h1 {
+    font-size: clamp(42px, 14vw, 62px);
+  }
+
+  .odessa-hero__buttons,
+  .odessa-hero__buttons .odessa-button {
+    width: 100%;
+  }
+
+  .odessa-hero__actions,
+  .odessa-decision-strip,
+  .odessa-options__grid,
+  .odessa-markets__grid,
+  .odessa-faq__grid,
+  .odessa-lead form,
+  .contact-content form[data-contact-form] {
+    grid-template-columns: 1fr;
+  }
+
+  .odessa-hero__actions article {
+    min-height: 0;
+    padding: 36px 26px;
+  }
+
+  .odessa-story {
+    gap: 24px;
+  }
+
+  .odessa-story h2,
+  .odessa-options h2,
+  .odessa-markets h2,
+  .odessa-faq h2,
+  .odessa-lead h2 {
+    font-size: clamp(38px, 12vw, 54px);
+  }
+
+  .odessa-inspection__copy,
+  .odessa-service-plan__card {
+    padding: 44px 26px;
+  }
+
+  .odessa-service-plan {
+    align-items: flex-end;
+    min-height: 680px;
+    padding: 0;
+  }
+
+  .odessa-service-plan__card {
+    width: 100%;
+  }
+
+  .odessa-options article {
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid #d7d9db;
+  }
+
+  .odessa-form-wide,
+  .odessa-lead form button,
+  .odessa-form-status,
+  .contact-content form[data-contact-form] .form-group:has(textarea),
+  .contact-content form[data-contact-form] button,
+  .contact-content form[data-contact-form] .odessa-form-status {
+    grid-column: auto;
+  }
+}
