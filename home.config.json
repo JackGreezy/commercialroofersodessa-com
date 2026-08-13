@@ -7,7 +7,7 @@
   "state": "Texas",
   "region": "Odessa, Ector County, and surrounding Permian Basin communities",
   "domain": "commercialroofersodessa.com",
-  "phone": "",
+  "phone": "(432) 535-3186",
   "email": "install@commercialroofersodessa.com",
   "address": "200 N Grant Ave, Suite 700, Odessa, TX 79761",
   "vertical": "commercial-roofing",
@@ -16,8 +16,36 @@
   "brand_repair_css": "@media(max-width:991px){html body .navbar-collapse.collapse[data-rr-mobile]{display:block!important;min-width:0!important;height:100dvh!important;min-height:100dvh!important;background:#002f6c!important}html body.rr-nav-open .navbar-collapse.collapse[data-rr-mobile]{width:min(86vw,320px)!important;max-width:min(86vw,320px)!important}}",
   "wordmark_l1": "Commercial Roofers",
   "wordmark_l2": "of Odessa",
-  "nav": [["Services", "/services"], ["Roof Systems", "/roof-systems"], ["Industries", "/industries"], ["Project Types", "/project-types"], ["Service Areas", "/locations"], ["Contact", "/contact"]],
-  "cta": ["Request a Roof Assessment", "/contact"],
+  "nav": [
+    [
+      "Services",
+      "/services"
+    ],
+    [
+      "Roof Systems",
+      "/roof-systems"
+    ],
+    [
+      "Industries",
+      "/industries"
+    ],
+    [
+      "Project Types",
+      "/project-types"
+    ],
+    [
+      "Service Areas",
+      "/locations"
+    ],
+    [
+      "Contact",
+      "/contact"
+    ]
+  ],
+  "cta": [
+    "Request a Roof Assessment",
+    "/contact"
+  ],
   "ref_host": "manhattanconstructiongroup-com",
   "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
   "privacyEffectiveDate": "January 26, 2026",
