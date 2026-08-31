@@ -75,5 +75,282 @@
       "source": "/capabilities/roof-asset-management/",
       "destination": "/capabilities/roof-asset-management.html"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/andrews",
+      "destination": "/service-areas/andrews",
+      "permanent": true
+    },
+    {
+      "source": "/locations/andrews/",
+      "destination": "/service-areas/andrews",
+      "permanent": true
+    },
+    {
+      "source": "/locations/barstow",
+      "destination": "/service-areas/barstow",
+      "permanent": true
+    },
+    {
+      "source": "/locations/barstow/",
+      "destination": "/service-areas/barstow",
+      "permanent": true
+    },
+    {
+      "source": "/locations/coyanosa",
+      "destination": "/service-areas/coyanosa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/coyanosa/",
+      "destination": "/service-areas/coyanosa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/crane",
+      "destination": "/service-areas/crane",
+      "permanent": true
+    },
+    {
+      "source": "/locations/crane/",
+      "destination": "/service-areas/crane",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-odessa",
+      "destination": "/service-areas/downtown-odessa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-odessa/",
+      "destination": "/service-areas/downtown-odessa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/frankel-city",
+      "destination": "/service-areas/frankel-city",
+      "permanent": true
+    },
+    {
+      "source": "/locations/frankel-city/",
+      "destination": "/service-areas/frankel-city",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gardendale",
+      "destination": "/service-areas/gardendale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gardendale/",
+      "destination": "/service-areas/gardendale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/goldsmith",
+      "destination": "/service-areas/goldsmith",
+      "permanent": true
+    },
+    {
+      "source": "/locations/goldsmith/",
+      "destination": "/service-areas/goldsmith",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grandfalls",
+      "destination": "/service-areas/grandfalls",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grandfalls/",
+      "destination": "/service-areas/grandfalls",
+      "permanent": true
+    },
+    {
+      "source": "/locations/imperial",
+      "destination": "/service-areas/imperial",
+      "permanent": true
+    },
+    {
+      "source": "/locations/imperial/",
+      "destination": "/service-areas/imperial",
+      "permanent": true
+    },
+    {
+      "source": "/locations/kermit",
+      "destination": "/service-areas/kermit",
+      "permanent": true
+    },
+    {
+      "source": "/locations/kermit/",
+      "destination": "/service-areas/kermit",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mccamey",
+      "destination": "/service-areas/mccamey",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mccamey/",
+      "destination": "/service-areas/mccamey",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mentone",
+      "destination": "/service-areas/mentone",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mentone/",
+      "destination": "/service-areas/mentone",
+      "permanent": true
+    },
+    {
+      "source": "/locations/monahans",
+      "destination": "/service-areas/monahans",
+      "permanent": true
+    },
+    {
+      "source": "/locations/monahans/",
+      "destination": "/service-areas/monahans",
+      "permanent": true
+    },
+    {
+      "source": "/locations/notrees",
+      "destination": "/service-areas/notrees",
+      "permanent": true
+    },
+    {
+      "source": "/locations/notrees/",
+      "destination": "/service-areas/notrees",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pecos",
+      "destination": "/service-areas/pecos",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pecos/",
+      "destination": "/service-areas/pecos",
+      "permanent": true
+    },
+    {
+      "source": "/locations/penwell",
+      "destination": "/service-areas/penwell",
+      "permanent": true
+    },
+    {
+      "source": "/locations/penwell/",
+      "destination": "/service-areas/penwell",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pleasant-farms",
+      "destination": "/service-areas/pleasant-farms",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pleasant-farms/",
+      "destination": "/service-areas/pleasant-farms",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pyote",
+      "destination": "/service-areas/pyote",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pyote/",
+      "destination": "/service-areas/pyote",
+      "permanent": true
+    },
+    {
+      "source": "/locations/royalty",
+      "destination": "/service-areas/royalty",
+      "permanent": true
+    },
+    {
+      "source": "/locations/royalty/",
+      "destination": "/service-areas/royalty",
+      "permanent": true
+    },
+    {
+      "source": "/locations/thorntonville",
+      "destination": "/service-areas/thorntonville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/thorntonville/",
+      "destination": "/service-areas/thorntonville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/toyah",
+      "destination": "/service-areas/toyah",
+      "permanent": true
+    },
+    {
+      "source": "/locations/toyah/",
+      "destination": "/service-areas/toyah",
+      "permanent": true
+    },
+    {
+      "source": "/locations/verhalen",
+      "destination": "/service-areas/verhalen",
+      "permanent": true
+    },
+    {
+      "source": "/locations/verhalen/",
+      "destination": "/service-areas/verhalen",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-odessa",
+      "destination": "/service-areas/west-odessa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-odessa/",
+      "destination": "/service-areas/west-odessa",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wickett",
+      "destination": "/service-areas/wickett",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wickett/",
+      "destination": "/service-areas/wickett",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wink",
+      "destination": "/service-areas/wink",
+      "permanent": true
+    },
+    {
+      "source": "/locations/wink/",
+      "destination": "/service-areas/wink",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
   ]
 }

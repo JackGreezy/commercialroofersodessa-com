@@ -10,7 +10,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "downtown-odessa",
@@ -26,23 +26,23 @@
      "related": [
       {
        "label": "Small Highway-Frontage Buildings Between Monahans and the Pecos River",
-       "href": "/locations/thorntonville"
+       "href": "/service-areas/thorntonville"
       },
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "What to Do With a Tar-and-Gravel Roof That's Outliving Its Usefulness",
@@ -92,23 +92,23 @@
      "related": [
       {
        "label": "Wind-Farm Service Yards Next to McCamey's Century-Old Downtown",
-       "href": "/locations/mccamey"
+       "href": "/service-areas/mccamey"
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "An I-20 Hub With Its Own Wind and Sand Problem",
-       "href": "/locations/monahans"
+       "href": "/service-areas/monahans"
       },
       {
        "label": "Roofing Notrees' Legacy Oilfield Buildings and Battery Storage Site",
-       "href": "/locations/notrees"
+       "href": "/service-areas/notrees"
       },
       {
        "label": "Boomtown Construction Means Boomtown Roof Problems",
-       "href": "/locations/pecos"
+       "href": "/service-areas/pecos"
       },
       {
        "label": "Why Edge Metal Fails Before the Rest of the Roof",
@@ -158,23 +158,23 @@
      "related": [
       {
        "label": "Boomtown Construction Means Boomtown Roof Problems",
-       "href": "/locations/pecos"
+       "href": "/service-areas/pecos"
       },
       {
        "label": "A Crossroads Where Every Roof Sits Next to Interstate Traffic",
-       "href": "/locations/penwell"
+       "href": "/service-areas/penwell"
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "Clear-Span Hangar Roofs and Oilfield Storage Buildings in Pyote",
-       "href": "/locations/pyote"
+       "href": "/service-areas/pyote"
       },
       {
        "label": "Tank Battery and Lease-Road Buildings Serving Royalty",
-       "href": "/locations/royalty"
+       "href": "/service-areas/royalty"
       },
       {
        "label": "Maintenance Plans Built to Catch Problems Before Tenants Do",
@@ -220,23 +220,23 @@
      "related": [
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Packing Sheds and Irrigation-District Buildings Along the Pecos in Barstow",
-       "href": "/locations/barstow"
+       "href": "/service-areas/barstow"
       },
       {
        "label": "When a Fabrication Shop Roof Needs More Than a Standard Membrane",
@@ -286,23 +286,23 @@
      "related": [
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Packing Sheds and Irrigation-District Buildings Along the Pecos in Barstow",
-       "href": "/locations/barstow"
+       "href": "/service-areas/barstow"
       },
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "A Well-Service Town Where the Roof Budget Is Tight",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "What's Actually Holding Up the Flat Roofs Downtown",
-       "href": "/locations/downtown-odessa"
+       "href": "/service-areas/downtown-odessa"
       },
       {
        "label": "Why Standing Seam Costs More Than R-Panel — and When That Difference Pays Off",
@@ -352,23 +352,23 @@
      "related": [
       {
        "label": "Tank Battery and Lease-Road Buildings Serving Royalty",
-       "href": "/locations/royalty"
+       "href": "/service-areas/royalty"
       },
       {
        "label": "Small Highway-Frontage Buildings Between Monahans and the Pecos River",
-       "href": "/locations/thorntonville"
+       "href": "/service-areas/thorntonville"
       },
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "The Recover-vs-Tear-Off Call Is the Most Important Decision on Your Roof",
@@ -418,23 +418,23 @@
      "related": [
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "A Well-Service Town Where the Roof Budget Is Tight",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "What's Actually Holding Up the Flat Roofs Downtown",
-       "href": "/locations/downtown-odessa"
+       "href": "/service-areas/downtown-odessa"
       },
       {
        "label": "Field Infrastructure Roofing in a Former Andrews County Oil Camp",
-       "href": "/locations/frankel-city"
+       "href": "/service-areas/frankel-city"
       },
       {
        "label": "North of the City Limits, the Yards Keep Spreading",
-       "href": "/locations/gardendale"
+       "href": "/service-areas/gardendale"
       },
       {
        "label": "Why Standing Seam Costs More Than R-Panel — and When That Difference Pays Off",
@@ -484,23 +484,23 @@
      "related": [
       {
        "label": "Tank Battery and Lease-Road Buildings Serving Royalty",
-       "href": "/locations/royalty"
+       "href": "/service-areas/royalty"
       },
       {
        "label": "Small Highway-Frontage Buildings Between Monahans and the Pecos River",
-       "href": "/locations/thorntonville"
+       "href": "/service-areas/thorntonville"
       },
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Hail and Wind Damage Repair for Odessa Commercial Roofs",
@@ -550,23 +550,23 @@
      "related": [
       {
        "label": "Wind-Farm Service Yards Next to McCamey's Century-Old Downtown",
-       "href": "/locations/mccamey"
+       "href": "/service-areas/mccamey"
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "An I-20 Hub With Its Own Wind and Sand Problem",
-       "href": "/locations/monahans"
+       "href": "/service-areas/monahans"
       },
       {
        "label": "Roofing Notrees' Legacy Oilfield Buildings and Battery Storage Site",
-       "href": "/locations/notrees"
+       "href": "/service-areas/notrees"
       },
       {
        "label": "Boomtown Construction Means Boomtown Roof Problems",
-       "href": "/locations/pecos"
+       "href": "/service-areas/pecos"
       },
       {
        "label": "Why Edge Metal Fails Before the Rest of the Roof",
@@ -616,23 +616,23 @@
      "related": [
       {
        "label": "An I-20 Hub With Its Own Wind and Sand Problem",
-       "href": "/locations/monahans"
+       "href": "/service-areas/monahans"
       },
       {
        "label": "Roofing Notrees' Legacy Oilfield Buildings and Battery Storage Site",
-       "href": "/locations/notrees"
+       "href": "/service-areas/notrees"
       },
       {
        "label": "Boomtown Construction Means Boomtown Roof Problems",
-       "href": "/locations/pecos"
+       "href": "/service-areas/pecos"
       },
       {
        "label": "A Crossroads Where Every Roof Sits Next to Interstate Traffic",
-       "href": "/locations/penwell"
+       "href": "/service-areas/penwell"
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "When a Roof Has Aged Past What Repair Can Fix",
@@ -682,23 +682,23 @@
      "related": [
       {
        "label": "Tank Battery and Lease-Road Buildings Serving Royalty",
-       "href": "/locations/royalty"
+       "href": "/service-areas/royalty"
       },
       {
        "label": "Small Highway-Frontage Buildings Between Monahans and the Pecos River",
-       "href": "/locations/thorntonville"
+       "href": "/service-areas/thorntonville"
       },
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "When a Roof Has Aged Past What Repair Can Fix",
@@ -748,23 +748,23 @@
      "related": [
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "Finding the Source Before We Fix Anything",
@@ -810,23 +810,23 @@
      "related": [
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "A Well-Service Town Where the Roof Budget Is Tight",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "What's Actually Holding Up the Flat Roofs Downtown",
-       "href": "/locations/downtown-odessa"
+       "href": "/service-areas/downtown-odessa"
       },
       {
        "label": "An Inspection That Answers the Question You Actually Have",
@@ -872,23 +872,23 @@
      "related": [
       {
        "label": "Cotton Gin and Century-Old Storefront Roofs in Grandfalls",
-       "href": "/locations/grandfalls"
+       "href": "/service-areas/grandfalls"
       },
       {
        "label": "Where Pecos County Farming Meets the Yates Field in Imperial",
-       "href": "/locations/imperial"
+       "href": "/service-areas/imperial"
       },
       {
        "label": "Winkler County's Roofs Run From the Square to the Basin",
-       "href": "/locations/kermit"
+       "href": "/service-areas/kermit"
       },
       {
        "label": "Wind-Farm Service Yards Next to McCamey's Century-Old Downtown",
-       "href": "/locations/mccamey"
+       "href": "/service-areas/mccamey"
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "The Drainage Problem Owners Notice Last",
@@ -938,23 +938,23 @@
      "related": [
       {
        "label": "An I-20 Hub With Its Own Wind and Sand Problem",
-       "href": "/locations/monahans"
+       "href": "/service-areas/monahans"
       },
       {
        "label": "Roofing Notrees' Legacy Oilfield Buildings and Battery Storage Site",
-       "href": "/locations/notrees"
+       "href": "/service-areas/notrees"
       },
       {
        "label": "Boomtown Construction Means Boomtown Roof Problems",
-       "href": "/locations/pecos"
+       "href": "/service-areas/pecos"
       },
       {
        "label": "A Crossroads Where Every Roof Sits Next to Interstate Traffic",
-       "href": "/locations/penwell"
+       "href": "/service-areas/penwell"
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "Finding the Source Before We Fix Anything",
@@ -1000,23 +1000,23 @@
      "related": [
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Packing Sheds and Irrigation-District Buildings Along the Pecos in Barstow",
-       "href": "/locations/barstow"
+       "href": "/service-areas/barstow"
       },
       {
        "label": "Choosing TPO for a Roof That Has to Survive West Texas Summers",
@@ -1066,23 +1066,23 @@
      "related": [
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Packing Sheds and Irrigation-District Buildings Along the Pecos in Barstow",
-       "href": "/locations/barstow"
+       "href": "/service-areas/barstow"
       },
       {
        "label": "Choosing TPO for a Roof That Has to Survive West Texas Summers",
@@ -1132,23 +1132,23 @@
      "related": [
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "When a Fabrication Shop Roof Needs More Than a Standard Membrane",
@@ -1198,23 +1198,23 @@
      "related": [
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "A Well-Service Town Where the Roof Budget Is Tight",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "What's Actually Holding Up the Flat Roofs Downtown",
-       "href": "/locations/downtown-odessa"
+       "href": "/service-areas/downtown-odessa"
       },
       {
        "label": "Field Infrastructure Roofing in a Former Andrews County Oil Camp",
-       "href": "/locations/frankel-city"
+       "href": "/service-areas/frankel-city"
       },
       {
        "label": "North of the City Limits, the Yards Keep Spreading",
-       "href": "/locations/gardendale"
+       "href": "/service-areas/gardendale"
       },
       {
        "label": "Choosing TPO for a Roof That Has to Survive West Texas Summers",
@@ -1264,23 +1264,23 @@
      "related": [
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "Hail and Wind Damage Repair for Odessa Commercial Roofs",
@@ -1330,23 +1330,23 @@
      "related": [
       {
        "label": "Field Infrastructure Roofing in a Former Andrews County Oil Camp",
-       "href": "/locations/frankel-city"
+       "href": "/service-areas/frankel-city"
       },
       {
        "label": "North of the City Limits, the Yards Keep Spreading",
-       "href": "/locations/gardendale"
+       "href": "/service-areas/gardendale"
       },
       {
        "label": "A Few Buildings, One Gas Plant, and No Room for Guesswork",
-       "href": "/locations/goldsmith"
+       "href": "/service-areas/goldsmith"
       },
       {
        "label": "Cotton Gin and Century-Old Storefront Roofs in Grandfalls",
-       "href": "/locations/grandfalls"
+       "href": "/service-areas/grandfalls"
       },
       {
        "label": "Where Pecos County Farming Meets the Yates Field in Imperial",
-       "href": "/locations/imperial"
+       "href": "/service-areas/imperial"
       },
       {
        "label": "The Drainage Problem Owners Notice Last",
@@ -1396,23 +1396,23 @@
      "related": [
       {
        "label": "Cotton Gin and Century-Old Storefront Roofs in Grandfalls",
-       "href": "/locations/grandfalls"
+       "href": "/service-areas/grandfalls"
       },
       {
        "label": "Where Pecos County Farming Meets the Yates Field in Imperial",
-       "href": "/locations/imperial"
+       "href": "/service-areas/imperial"
       },
       {
        "label": "Winkler County's Roofs Run From the Square to the Basin",
-       "href": "/locations/kermit"
+       "href": "/service-areas/kermit"
       },
       {
        "label": "Wind-Farm Service Yards Next to McCamey's Century-Old Downtown",
-       "href": "/locations/mccamey"
+       "href": "/service-areas/mccamey"
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "What to Do With a Tar-and-Gravel Roof That's Outliving Its Usefulness",
@@ -1462,23 +1462,23 @@
      "related": [
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "An I-20 Hub With Its Own Wind and Sand Problem",
-       "href": "/locations/monahans"
+       "href": "/service-areas/monahans"
       },
       {
        "label": "Roofing Notrees' Legacy Oilfield Buildings and Battery Storage Site",
-       "href": "/locations/notrees"
+       "href": "/service-areas/notrees"
       },
       {
        "label": "Boomtown Construction Means Boomtown Roof Problems",
-       "href": "/locations/pecos"
+       "href": "/service-areas/pecos"
       },
       {
        "label": "A Crossroads Where Every Roof Sits Next to Interstate Traffic",
-       "href": "/locations/penwell"
+       "href": "/service-areas/penwell"
       },
       {
        "label": "Maintenance Plans Built to Catch Problems Before Tenants Do",
@@ -1524,23 +1524,23 @@
      "related": [
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Packing Sheds and Irrigation-District Buildings Along the Pecos in Barstow",
-       "href": "/locations/barstow"
+       "href": "/service-areas/barstow"
       },
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "A Well-Service Town Where the Roof Budget Is Tight",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "R-Panel Is the Right Roof for a Lot of Odessa Buildings — With One Condition",
@@ -1590,23 +1590,23 @@
      "related": [
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Packing Sheds and Irrigation-District Buildings Along the Pecos in Barstow",
-       "href": "/locations/barstow"
+       "href": "/service-areas/barstow"
       },
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "A Well-Service Town Where the Roof Budget Is Tight",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "What's Actually Holding Up the Flat Roofs Downtown",
-       "href": "/locations/downtown-odessa"
+       "href": "/service-areas/downtown-odessa"
       },
       {
        "label": "Why Edge Metal Fails Before the Rest of the Roof",
@@ -1656,23 +1656,23 @@
      "related": [
       {
        "label": "Small Highway-Frontage Buildings Between Monahans and the Pecos River",
-       "href": "/locations/thorntonville"
+       "href": "/service-areas/thorntonville"
       },
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "R-Panel Is the Right Roof for a Lot of Odessa Buildings — With One Condition",
@@ -1748,7 +1748,7 @@
       },
       {
        "label": "Tank Battery and Lease-Road Buildings Serving Royalty",
-       "href": "/locations/royalty"
+       "href": "/service-areas/royalty"
       },
       {
        "label": "One Roof, Half a Dozen Tenants, and the Owner Holding All the Risk",
@@ -1810,7 +1810,7 @@
       },
       {
        "label": "Roofing Notrees' Legacy Oilfield Buildings and Battery Storage Site",
-       "href": "/locations/notrees"
+       "href": "/service-areas/notrees"
       },
       {
        "label": "When the Roof Is Protecting Inventory As Much As the Building",
@@ -1864,7 +1864,7 @@
       },
       {
        "label": "Winkler County's Roofs Run From the Square to the Basin",
-       "href": "/locations/kermit"
+       "href": "/service-areas/kermit"
       },
       {
        "label": "Distribution Roofs Are Sized for Square Footage First, Everything Else Second",
@@ -1926,7 +1926,7 @@
       },
       {
        "label": "What's Actually Holding Up the Flat Roofs Downtown",
-       "href": "/locations/downtown-odessa"
+       "href": "/service-areas/downtown-odessa"
       },
       {
        "label": "When a Leak Threatens Food As Much As the Floor",
@@ -1984,7 +1984,7 @@
       },
       {
        "label": "Packing Sheds and Irrigation-District Buildings Along the Pecos in Barstow",
-       "href": "/locations/barstow"
+       "href": "/service-areas/barstow"
       },
       {
        "label": "Long, Low, and All Seams: Why Self-Storage Roofs Behave Differently",
@@ -2081,7 +2081,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<h1>Why Hail Claims in the Permian Basin Come Down to Documentation</h1>\n<p>Hail is the peril that does the most damage to commercial roofs across the Permian Basin, and it isn't rare here — this part of West Texas sits in one of the more hail-prone corridors in the country, and Odessa's building stock takes hits nearly every storm season. The trouble with a hail claim isn't usually proving a storm happened. It's proving what the storm actually did, because a lot of hail damage doesn't announce itself the way a torn-off section of roof does.</p>\n<h2>What Hail Damage Actually Looks Like on Different Roof Systems</h2>\n<p>On exposed-fastener metal panels, common across the pipe yards and fabrication shops around here, hail dents the panel surface and can crack paint coating or fracture the metal at fastener points, opening a path for water that isn't obvious from the ground. On TPO, PVC, and EPDM membranes, hail bruises the material — softening or fracturing its internal structure without puncturing it — and that bruised spot becomes brittle and prone to cracking weeks or months after the storm, long after anyone's thinking about it. On built-up and modified bitumen roofs, hail knocks granules loose from the cap sheet, exposing the asphalt underneath to accelerated UV breakdown.</p>\n<h2>Why Hail Damage Gets Missed</h2>\n<p>A roof that looks fine from the parking lot can carry real hail damage. We walk the entire roof surface, including the areas that aren't visible from an access point, checking membrane for bruising and granule loss, metal panels for dents and cracked seams, and flashing and pitch pans for impact damage that compromises a seal without an obvious crack. We photograph and mark each finding with enough context — location on the roof, size, and pattern — that the documentation holds up to review.</p>\n<h2>Test Squares and Impact Patterns</h2>\n<p>Adjusters and contractors often use marked test squares on a metal roof to count hail hits per square foot, which helps establish whether the damage pattern is consistent with a hail event versus scattered pre-existing wear. We use the same approach so our findings translate directly into terms an adjuster is already working with, rather than a separate system that has to be reconciled during review.</p>\n<h2>Distinguishing Hail Damage From Ordinary Wear</h2>\n<p>Not every dent or granule loss on an older roof is storm-related. Odessa's UV exposure and thermal cycling age roofing material on their own, and a roof that was already showing wear before a hailstorm can make it harder to separate what the storm caused from what was already there. We're straightforward about that distinction in our documentation, because a report that claims every imperfection as storm damage undermines its own credibility, and one that misses real hail damage costs the owner money they're entitled to recover.</p>\n<h2>Documenting for the Claim</h2>\n<ul>\n<li>Dated, location-tagged photos of every hail-affected area, including the less obvious spots</li>\n<li>Test-square hit counts on metal panel roofs where applicable</li>\n<li>Membrane bruising and granule-loss documentation on flat and low-slope systems</li>\n<li>Notes distinguishing hail impact from pre-existing wear or prior repairs</li>\n<li>A written summary suitable for review by your adjuster or your own representative</li>\n</ul>\n<h2>Odessa's Hail Exposure Isn't Occasional</h2>\n<p>This part of West Texas sits in a corridor that sees hail more years than not, and the building stock here reflects that history if you know what to look for. Exposed-fastener metal roofs on service yards and fabrication shops carry the scars of storms that hit years apart, layered on top of each other, which is exactly why a fresh hail claim on an older roof needs documentation that separates this storm's damage from what was already there. A roof that's taken three hailstorms in ten years doesn't read the same as a roof that just took its first one, and the claim should reflect that difference honestly.</p>\n<h2>Questions Owners Ask About Hail Claims</h2>\n<h3>Does insurance cover hail damage to a metal roof?</h3>\n<p>Hail damage to a commercial roof is typically a covered peril, but coverage specifics depend on your policy. What we can tell you honestly is whether what we're seeing on the roof is consistent with a hail event.</p>\n<h3>How can hail damage a roof if there are no visible holes?</h3>\n<p>Bruised membrane and dented metal panels don't always puncture immediately. The damage weakens the material at the impact point, and that weakness can turn into a leak months later, which is why documenting it at the time of the storm matters even when the roof still looks watertight.</p>\n<h3>What if the hail damage is only on part of the roof?</h3>\n<p>We document the actual extent of the damage, whether that's isolated or roof-wide. Some hail events hit a roof unevenly depending on wind direction and hailstone size, and the documentation should reflect that pattern rather than assume uniform damage.</p>\n<h3>Can you tell hail damage apart from normal roof aging?</h3>\n<p>Yes, that's a core part of what we document — the impact pattern, location, and type of damage hail causes look different from gradual wear, and we note that distinction plainly rather than blur the two together.</p>\n<h3>Do I need a hail claim filed before you can inspect the roof?</h3>\n<p>No, we can inspect and document hail damage any time, and having that documentation in hand often makes filing the claim more straightforward.</p>\n<p><em>We're your roofing contractor, not a public adjuster — we document and substantiate the roof damage so you and your adjuster work from an accurate scope.</em></p><h2>Related</h2><div class=\"rr-related-grid\"><a class=\"rr-related-card\" href=\"/services/commercial-roof-insurance-claims\"><span>The Roofing Contractor's Role in an Odessa Commercial Claim</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/wind-storm-damage-roof-insurance-claims\"><span>When a Dust Storm or Straight-Line Wind Event Turns Into a Claim</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/insurance-documentation-support\"><span>Building the Paper Trail Before You Ever Need It</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/storm-damage-roof-repair\"><span>Hail and Wind Damage Repair for Odessa Commercial Roofs</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/standing-seam-metal-roofing\"><span>Why Standing Seam Costs More Than R-Panel — and When That Difference Pays Off</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/commercial-roof-inspection\"><span>An Inspection That Answers the Question You Actually Have</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/industries/insurance-restoration\"><span>Insurance Restoration Work Across Odessa Commercial Property</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/locations/west-odessa\"><span>Fabrication Shop and Pipe Yard Roofs Along US-385</span><small>View scope</small></a></div>"
+       "html": "<h1>Why Hail Claims in the Permian Basin Come Down to Documentation</h1>\n<p>Hail is the peril that does the most damage to commercial roofs across the Permian Basin, and it isn't rare here — this part of West Texas sits in one of the more hail-prone corridors in the country, and Odessa's building stock takes hits nearly every storm season. The trouble with a hail claim isn't usually proving a storm happened. It's proving what the storm actually did, because a lot of hail damage doesn't announce itself the way a torn-off section of roof does.</p>\n<h2>What Hail Damage Actually Looks Like on Different Roof Systems</h2>\n<p>On exposed-fastener metal panels, common across the pipe yards and fabrication shops around here, hail dents the panel surface and can crack paint coating or fracture the metal at fastener points, opening a path for water that isn't obvious from the ground. On TPO, PVC, and EPDM membranes, hail bruises the material — softening or fracturing its internal structure without puncturing it — and that bruised spot becomes brittle and prone to cracking weeks or months after the storm, long after anyone's thinking about it. On built-up and modified bitumen roofs, hail knocks granules loose from the cap sheet, exposing the asphalt underneath to accelerated UV breakdown.</p>\n<h2>Why Hail Damage Gets Missed</h2>\n<p>A roof that looks fine from the parking lot can carry real hail damage. We walk the entire roof surface, including the areas that aren't visible from an access point, checking membrane for bruising and granule loss, metal panels for dents and cracked seams, and flashing and pitch pans for impact damage that compromises a seal without an obvious crack. We photograph and mark each finding with enough context — location on the roof, size, and pattern — that the documentation holds up to review.</p>\n<h2>Test Squares and Impact Patterns</h2>\n<p>Adjusters and contractors often use marked test squares on a metal roof to count hail hits per square foot, which helps establish whether the damage pattern is consistent with a hail event versus scattered pre-existing wear. We use the same approach so our findings translate directly into terms an adjuster is already working with, rather than a separate system that has to be reconciled during review.</p>\n<h2>Distinguishing Hail Damage From Ordinary Wear</h2>\n<p>Not every dent or granule loss on an older roof is storm-related. Odessa's UV exposure and thermal cycling age roofing material on their own, and a roof that was already showing wear before a hailstorm can make it harder to separate what the storm caused from what was already there. We're straightforward about that distinction in our documentation, because a report that claims every imperfection as storm damage undermines its own credibility, and one that misses real hail damage costs the owner money they're entitled to recover.</p>\n<h2>Documenting for the Claim</h2>\n<ul>\n<li>Dated, location-tagged photos of every hail-affected area, including the less obvious spots</li>\n<li>Test-square hit counts on metal panel roofs where applicable</li>\n<li>Membrane bruising and granule-loss documentation on flat and low-slope systems</li>\n<li>Notes distinguishing hail impact from pre-existing wear or prior repairs</li>\n<li>A written summary suitable for review by your adjuster or your own representative</li>\n</ul>\n<h2>Odessa's Hail Exposure Isn't Occasional</h2>\n<p>This part of West Texas sits in a corridor that sees hail more years than not, and the building stock here reflects that history if you know what to look for. Exposed-fastener metal roofs on service yards and fabrication shops carry the scars of storms that hit years apart, layered on top of each other, which is exactly why a fresh hail claim on an older roof needs documentation that separates this storm's damage from what was already there. A roof that's taken three hailstorms in ten years doesn't read the same as a roof that just took its first one, and the claim should reflect that difference honestly.</p>\n<h2>Questions Owners Ask About Hail Claims</h2>\n<h3>Does insurance cover hail damage to a metal roof?</h3>\n<p>Hail damage to a commercial roof is typically a covered peril, but coverage specifics depend on your policy. What we can tell you honestly is whether what we're seeing on the roof is consistent with a hail event.</p>\n<h3>How can hail damage a roof if there are no visible holes?</h3>\n<p>Bruised membrane and dented metal panels don't always puncture immediately. The damage weakens the material at the impact point, and that weakness can turn into a leak months later, which is why documenting it at the time of the storm matters even when the roof still looks watertight.</p>\n<h3>What if the hail damage is only on part of the roof?</h3>\n<p>We document the actual extent of the damage, whether that's isolated or roof-wide. Some hail events hit a roof unevenly depending on wind direction and hailstone size, and the documentation should reflect that pattern rather than assume uniform damage.</p>\n<h3>Can you tell hail damage apart from normal roof aging?</h3>\n<p>Yes, that's a core part of what we document — the impact pattern, location, and type of damage hail causes look different from gradual wear, and we note that distinction plainly rather than blur the two together.</p>\n<h3>Do I need a hail claim filed before you can inspect the roof?</h3>\n<p>No, we can inspect and document hail damage any time, and having that documentation in hand often makes filing the claim more straightforward.</p>\n<p><em>We're your roofing contractor, not a public adjuster — we document and substantiate the roof damage so you and your adjuster work from an accurate scope.</em></p><h2>Related</h2><div class=\"rr-related-grid\"><a class=\"rr-related-card\" href=\"/services/commercial-roof-insurance-claims\"><span>The Roofing Contractor's Role in an Odessa Commercial Claim</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/wind-storm-damage-roof-insurance-claims\"><span>When a Dust Storm or Straight-Line Wind Event Turns Into a Claim</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/insurance-documentation-support\"><span>Building the Paper Trail Before You Ever Need It</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/storm-damage-roof-repair\"><span>Hail and Wind Damage Repair for Odessa Commercial Roofs</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/standing-seam-metal-roofing\"><span>Why Standing Seam Costs More Than R-Panel — and When That Difference Pays Off</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/commercial-roof-inspection\"><span>An Inspection That Answers the Question You Actually Have</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/industries/insurance-restoration\"><span>Insurance Restoration Work Across Odessa Commercial Property</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/service-areas/west-odessa\"><span>Fabrication Shop and Pipe Yard Roofs Along US-385</span><small>View scope</small></a></div>"
       }
      ],
      "faqs": [],
@@ -2116,7 +2116,7 @@
       },
       {
        "label": "Fabrication Shop and Pipe Yard Roofs Along US-385",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Commercial Roof Repair",
@@ -2143,7 +2143,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<h1>When a Dust Storm or Straight-Line Wind Event Turns Into a Claim</h1>\n<p>Wind does most of its damage to a commercial roof at the edges, and around here it comes in more than one form. Straight-line wind off the caprock can gust hard enough to lift loose edge metal in a matter of seconds, dust storms and haboobs common to this stretch of West Texas scour and stress roof surfaces even without heavy rain behind them, and severe thunderstorm cells that roll through the Permian occasionally carry tornado warnings with them. Whatever the source, a wind claim depends on documenting where the roof actually failed and why, in specific and verifiable terms rather than a general reference to a storm passing through.</p>\n<h2>How Wind Attacks a Roof Differently Than Hail</h2>\n<p>Where hail dents and bruises a roof surface broadly, wind targets edges and penetrations first. Edge metal and coping can lift or separate under uplift pressure, membrane can peel back at a seam that was already marginal, and exposed-fastener metal panels — common on the pipe yards and equipment buildings across this area — can work loose at fasteners that had already backed out partway from years of thermal cycling. Wind damage often shows up as a progression: one storm loosens something, and the next storm finishes the job, which is part of why a roof that survives one wind event can still fail in a later one.</p>\n<h2>Dust and Debris Damage</h2>\n<p>West Texas dust storms move enough grit and debris to abrade coatings and work into seams and drains that aren't sealed correctly, and wind-driven debris — loose signage, gravel from an adjacent ballasted roof, tree limbs where they exist — can cause impact damage similar in some ways to hail but with a different pattern. We document debris damage separately from wind-uplift damage, since they're often caused by the same storm but call for different repair approaches.</p>\n<h2>Documenting Wind Damage for a Claim</h2>\n<p>We photograph lifted or separated edge metal, displaced panels, peeled-back membrane seams, and any active leak points that developed during or immediately after the event, noting location and extent across the whole roof rather than just the section that's obviously torn up. Where a roof shows evidence of a slow progression — fasteners that were already loose before the storm that finished the job — we note that honestly, since it affects how the damage should be characterized in a claim.</p>\n<ul>\n<li>Lifted, separated, or missing edge metal and coping at roof perimeters</li>\n<li>Displaced or fastener-loose metal panels</li>\n<li>Peeled or lifted membrane seams and flashing</li>\n<li>Wind-driven debris impact damage, documented separately from uplift damage</li>\n<li>Active leak points tied to a specific storm date where determinable</li>\n</ul>\n<h2>Why Edge Details Get Missed</h2>\n<p>Edge metal and coping are usually the first thing to fail in a wind event and the easiest thing to miss from a casual look, since damage there doesn't always show up as an interior leak right away. We check these areas closely after any significant wind event, even when the rest of the roof looks fine, because a compromised edge detail left unaddressed is often what turns a minor wind event into a much larger repair after the next storm.</p>\n<h2>Roof Stock That Takes the Brunt of It</h2>\n<p>A lot of what we cover after a wind event isn't office buildings — it's fabrication shops and pipe yards along I-20 and US-385 with exposed-fastener metal roofs, oilfield support buildings and equipment warehouses where downtime isn't an option, and highway retail and hospitality roofs that took years of thermal cycling before this storm ever hit. Those roofs fail differently than a glass-and-steel office park, and a wind claim on a fabrication shop's metal roof needs documentation that reflects how that specific system actually failed, not a generic description that could apply to any building.</p>\n<h2>Questions Owners Ask About Wind and Storm Claims</h2>\n<h3>Does insurance cover wind damage separately from hail?</h3>\n<p>Many commercial policies address wind and hail together as windstorm coverage, but terms vary by policy. We document what actually happened to the roof; how your policy categorizes it is a question for your insurer or representative.</p>\n<h3>How do you prove wind caused the damage instead of age?</h3>\n<p>Wind damage has a recognizable pattern — lifted edges, displaced panels, peeled seams concentrated at perimeters and penetrations — that we document and describe plainly, distinguishing it from the more even, gradual wear a roof shows from age alone.</p>\n<h3>What about damage from a dust storm without heavy rain?</h3>\n<p>Dust storms can still cause real damage through abrasion and debris impact even without significant rainfall, and we document that damage on its own terms rather than assuming a claim requires water intrusion to be valid.</p>\n<h3>Should I get the roof looked at after every wind event?</h3>\n<p>Significant wind events are worth a post-storm check, especially for edge metal and coping, since that's where problems start and where they're easiest to catch before they become interior leaks.</p>\n<h3>Can wind damage from two different storms be part of the same claim?</h3>\n<p>That depends on your policy and the timeline involved. We document damage with dates where we can establish them, which gives you and your insurer the clearest basis for sorting out which storm caused what, and we're honest when a timeline can't be pinned down precisely rather than guessing at a date.</p>\n<p><em>We're your roofing contractor, not a public adjuster — we document and substantiate the roof damage so you and your adjuster work from an accurate scope.</em></p><h2>Related</h2><div class=\"rr-related-grid\"><a class=\"rr-related-card\" href=\"/services/commercial-roof-insurance-claims\"><span>The Roofing Contractor's Role in an Odessa Commercial Claim</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/hail-damage-roof-insurance-claims\"><span>Why Hail Claims in the Permian Basin Come Down to Documentation</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/insurance-documentation-support\"><span>Building the Paper Trail Before You Ever Need It</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/storm-damage-roof-repair\"><span>Hail and Wind Damage Repair for Odessa Commercial Roofs</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/edge-metal-coping-gutters\"><span>Edge Metal, Coping, and the Detail Wind Finds First</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/emergency-tarp-dry-in\"><span>Stopping Water Intrusion the Same Day a Storm Hits</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/industries/insurance-restoration\"><span>Insurance Restoration Work Across Odessa Commercial Property</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/locations/monahans\"><span>Commercial Roofing Along the Monahans Corridor</span><small>View scope</small></a></div>"
+       "html": "<h1>When a Dust Storm or Straight-Line Wind Event Turns Into a Claim</h1>\n<p>Wind does most of its damage to a commercial roof at the edges, and around here it comes in more than one form. Straight-line wind off the caprock can gust hard enough to lift loose edge metal in a matter of seconds, dust storms and haboobs common to this stretch of West Texas scour and stress roof surfaces even without heavy rain behind them, and severe thunderstorm cells that roll through the Permian occasionally carry tornado warnings with them. Whatever the source, a wind claim depends on documenting where the roof actually failed and why, in specific and verifiable terms rather than a general reference to a storm passing through.</p>\n<h2>How Wind Attacks a Roof Differently Than Hail</h2>\n<p>Where hail dents and bruises a roof surface broadly, wind targets edges and penetrations first. Edge metal and coping can lift or separate under uplift pressure, membrane can peel back at a seam that was already marginal, and exposed-fastener metal panels — common on the pipe yards and equipment buildings across this area — can work loose at fasteners that had already backed out partway from years of thermal cycling. Wind damage often shows up as a progression: one storm loosens something, and the next storm finishes the job, which is part of why a roof that survives one wind event can still fail in a later one.</p>\n<h2>Dust and Debris Damage</h2>\n<p>West Texas dust storms move enough grit and debris to abrade coatings and work into seams and drains that aren't sealed correctly, and wind-driven debris — loose signage, gravel from an adjacent ballasted roof, tree limbs where they exist — can cause impact damage similar in some ways to hail but with a different pattern. We document debris damage separately from wind-uplift damage, since they're often caused by the same storm but call for different repair approaches.</p>\n<h2>Documenting Wind Damage for a Claim</h2>\n<p>We photograph lifted or separated edge metal, displaced panels, peeled-back membrane seams, and any active leak points that developed during or immediately after the event, noting location and extent across the whole roof rather than just the section that's obviously torn up. Where a roof shows evidence of a slow progression — fasteners that were already loose before the storm that finished the job — we note that honestly, since it affects how the damage should be characterized in a claim.</p>\n<ul>\n<li>Lifted, separated, or missing edge metal and coping at roof perimeters</li>\n<li>Displaced or fastener-loose metal panels</li>\n<li>Peeled or lifted membrane seams and flashing</li>\n<li>Wind-driven debris impact damage, documented separately from uplift damage</li>\n<li>Active leak points tied to a specific storm date where determinable</li>\n</ul>\n<h2>Why Edge Details Get Missed</h2>\n<p>Edge metal and coping are usually the first thing to fail in a wind event and the easiest thing to miss from a casual look, since damage there doesn't always show up as an interior leak right away. We check these areas closely after any significant wind event, even when the rest of the roof looks fine, because a compromised edge detail left unaddressed is often what turns a minor wind event into a much larger repair after the next storm.</p>\n<h2>Roof Stock That Takes the Brunt of It</h2>\n<p>A lot of what we cover after a wind event isn't office buildings — it's fabrication shops and pipe yards along I-20 and US-385 with exposed-fastener metal roofs, oilfield support buildings and equipment warehouses where downtime isn't an option, and highway retail and hospitality roofs that took years of thermal cycling before this storm ever hit. Those roofs fail differently than a glass-and-steel office park, and a wind claim on a fabrication shop's metal roof needs documentation that reflects how that specific system actually failed, not a generic description that could apply to any building.</p>\n<h2>Questions Owners Ask About Wind and Storm Claims</h2>\n<h3>Does insurance cover wind damage separately from hail?</h3>\n<p>Many commercial policies address wind and hail together as windstorm coverage, but terms vary by policy. We document what actually happened to the roof; how your policy categorizes it is a question for your insurer or representative.</p>\n<h3>How do you prove wind caused the damage instead of age?</h3>\n<p>Wind damage has a recognizable pattern — lifted edges, displaced panels, peeled seams concentrated at perimeters and penetrations — that we document and describe plainly, distinguishing it from the more even, gradual wear a roof shows from age alone.</p>\n<h3>What about damage from a dust storm without heavy rain?</h3>\n<p>Dust storms can still cause real damage through abrasion and debris impact even without significant rainfall, and we document that damage on its own terms rather than assuming a claim requires water intrusion to be valid.</p>\n<h3>Should I get the roof looked at after every wind event?</h3>\n<p>Significant wind events are worth a post-storm check, especially for edge metal and coping, since that's where problems start and where they're easiest to catch before they become interior leaks.</p>\n<h3>Can wind damage from two different storms be part of the same claim?</h3>\n<p>That depends on your policy and the timeline involved. We document damage with dates where we can establish them, which gives you and your insurer the clearest basis for sorting out which storm caused what, and we're honest when a timeline can't be pinned down precisely rather than guessing at a date.</p>\n<p><em>We're your roofing contractor, not a public adjuster — we document and substantiate the roof damage so you and your adjuster work from an accurate scope.</em></p><h2>Related</h2><div class=\"rr-related-grid\"><a class=\"rr-related-card\" href=\"/services/commercial-roof-insurance-claims\"><span>The Roofing Contractor's Role in an Odessa Commercial Claim</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/hail-damage-roof-insurance-claims\"><span>Why Hail Claims in the Permian Basin Come Down to Documentation</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/insurance-documentation-support\"><span>Building the Paper Trail Before You Ever Need It</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/storm-damage-roof-repair\"><span>Hail and Wind Damage Repair for Odessa Commercial Roofs</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/edge-metal-coping-gutters\"><span>Edge Metal, Coping, and the Detail Wind Finds First</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/services/emergency-tarp-dry-in\"><span>Stopping Water Intrusion the Same Day a Storm Hits</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/industries/insurance-restoration\"><span>Insurance Restoration Work Across Odessa Commercial Property</span><small>View scope</small></a><a class=\"rr-related-card\" href=\"/service-areas/monahans\"><span>Commercial Roofing Along the Monahans Corridor</span><small>View scope</small></a></div>"
       }
      ],
      "faqs": [],
@@ -2178,7 +2178,7 @@
       },
       {
        "label": "Commercial Roofing Along the Monahans Corridor",
-       "href": "/locations/monahans"
+       "href": "/service-areas/monahans"
       },
       {
        "label": "Commercial Roof Repair",
@@ -2298,7 +2298,7 @@
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "When the Roof Is Protecting Inventory As Much As the Building",
@@ -2356,7 +2356,7 @@
       },
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "A Leak in an Exam Room Is a Different Kind of Problem",
@@ -2418,7 +2418,7 @@
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "A Leak in an Exam Room Is a Different Kind of Problem",
@@ -2476,7 +2476,7 @@
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "Long, Low, and All Seams: Why Self-Storage Roofs Behave Differently",
@@ -2604,7 +2604,7 @@
       },
       {
        "label": "Field Infrastructure Roofing in a Former Andrews County Oil Camp",
-       "href": "/locations/frankel-city"
+       "href": "/service-areas/frankel-city"
       },
       {
        "label": "A Leak in an Exam Room Is a Different Kind of Problem",
@@ -2670,7 +2670,7 @@
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "Distribution Roofs Are Sized for Square Footage First, Everything Else Second",
@@ -2724,7 +2724,7 @@
       },
       {
        "label": "A Few Buildings, One Gas Plant, and No Room for Guesswork",
-       "href": "/locations/goldsmith"
+       "href": "/service-areas/goldsmith"
       },
       {
        "label": "Long, Low, and All Seams: Why Self-Storage Roofs Behave Differently",
@@ -2774,7 +2774,7 @@
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "Long, Low, and All Seams: Why Self-Storage Roofs Behave Differently",
@@ -2836,7 +2836,7 @@
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Long, Low, and All Seams: Why Self-Storage Roofs Behave Differently",
@@ -2894,7 +2894,7 @@
       },
       {
        "label": "Field Infrastructure Roofing in a Former Andrews County Oil Camp",
-       "href": "/locations/frankel-city"
+       "href": "/service-areas/frankel-city"
       },
       {
        "label": "A Leak Over the Sales Floor Is a Liability Problem Before It's a Roof Problem",
@@ -2948,7 +2948,7 @@
       },
       {
        "label": "Wind-Farm Service Yards Next to McCamey's Century-Old Downtown",
-       "href": "/locations/mccamey"
+       "href": "/service-areas/mccamey"
       },
       {
        "label": "A Plant Roof Works As Hard As the Equipment It Covers",
@@ -3006,7 +3006,7 @@
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "A Plant Roof Works As Hard As the Equipment It Covers",
@@ -3068,7 +3068,7 @@
       },
       {
        "label": "A Crossroads Where Every Roof Sits Next to Interstate Traffic",
-       "href": "/locations/penwell"
+       "href": "/service-areas/penwell"
       },
       {
        "label": "Distribution Roofs Are Sized for Square Footage First, Everything Else Second",
@@ -3130,7 +3130,7 @@
       },
       {
        "label": "Metal Roofs for Wink's Pipeline Yards and Well-Service Shops",
-       "href": "/locations/wink"
+       "href": "/service-areas/wink"
       },
       {
        "label": "A Leak in an Exam Room Is a Different Kind of Problem",
@@ -3202,7 +3202,7 @@
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "Small Footprint, Concentrated Risk",
@@ -3268,7 +3268,7 @@
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "A Plant Roof Works As Hard As the Equipment It Covers",
@@ -3334,7 +3334,7 @@
       },
       {
        "label": "A Crossroads Where Every Roof Sits Next to Interstate Traffic",
-       "href": "/locations/penwell"
+       "href": "/service-areas/penwell"
       },
       {
        "label": "A Plant Roof Works As Hard As the Equipment It Covers",
@@ -3400,7 +3400,7 @@
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "A Leak Over the Sales Floor Is a Liability Problem Before It's a Roof Problem",
@@ -3435,7 +3435,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<h1>Keeping a Multi-Site Retail Roof Program Consistent Along I-20</h1>\n<p>A facilities manager overseeing several retail locations, truck stops, or convenience stores across the Odessa market is not managing one roof. Every additional location along I-20 or US-385 adds a different roof age, a different original installer, and a different maintenance history to track, and a program that treats each store as an isolated event loses the consistency that actually controls long-term cost.</p>\n<h2>Managing Roofs Across Scattered Locations</h2>\n<p>Chain operators in this market often inherit stores that were built, sold, and re-branded more than once, each with a roof installed by whoever built the original building. We start a multi-site relationship by baselining every location: system type, age, drainage condition, and any active issues, so a facilities manager has one consolidated record instead of separate, inconsistent files from whichever contractor worked each store last.</p>\n<h2>Truck Stops, Convenience Retail, and Canopy Roofs</h2>\n<p>Fuel canopy roofs and the convenience-store buildings behind them along the I-20 and US-385 truck corridor face a specific set of stresses this market's other retail rarely sees: constant vibration and exhaust from truck traffic, grease and vapor exposure near food service areas, and canopy structures that move differently in wind than a standard flat roof. We treat canopy roofing as its own category rather than pricing it the same as a standard store roof, since the fastening, flashing, and membrane choices that hold up under a parking lot canopy differ from what works on an occupied building roof.</p>\n<h2>Keeping Stores Open During Roof Work</h2>\n<p>A closed store during roof work is lost revenue a chain operator has to explain up the corporate chain. We phase reroof and repair work to keep sales floors and fuel operations running, sequencing tear-off and dry-in over sections rather than opening the whole roof at once, and scheduling the noisiest phases around lower-traffic hours where the store's own sales data supports it. Canopy work gets sequenced to keep at least a portion of fuel dispensers operational rather than shutting down the whole forecourt.</p>\n<h2>Standardizing Specs Across a Multi-Site Portfolio</h2>\n<p>A chain operator benefits from a consistent roof spec across locations, same membrane type, same warranty terms, same maintenance interval, rather than whatever system happened to be on sale when each individual store last needed work. We recommend a standard spec appropriate to this climate, high UV, spring hail, and occasional deep winter freeze, and apply it consistently as stores come up for repair or replacement, so the operator's roof program converges toward one system instead of drifting further apart with every new job.</p>\n<h2>What a Multi-Site Roof Program Includes</h2>\n<ul>\n<li>A baseline condition survey across every location, standardized to one reporting format</li>\n<li>A single point of contact managing all sites rather than separate contractors per store</li>\n<li>Consistent membrane and warranty specifications recommended across the portfolio</li>\n<li>Phased scheduling that keeps sales floors and fuel operations open during work</li>\n<li>Canopy-specific inspection and repair standards separate from standard building roof work</li>\n<li>Centralized reporting that rolls up to regional or corporate facilities management</li>\n</ul>\n<h2>Reporting Up the Corporate Chain</h2>\n<p>A facilities manager for a multi-site operator answers to a regional or corporate office that wants roof spending justified across the whole portfolio, not store by store. We provide consolidated reporting that shows condition, priority, and cost across every location we service, so a facilities manager can present a single, defensible capital plan rather than a stack of disconnected store-level quotes. Where storm damage has hit multiple stores in the same weather event, our <a href=\"/services/storm-damage-roof-repair\">storm damage roof repair</a> page covers how we sequence and document multi-location claims.</p>\n<p>Franchise-operated locations add another layer to that reporting. A regional facilities manager overseeing a mix of corporate-owned and franchise-operated stores needs roof condition data that can be shared with a franchisee without exposing internal cost benchmarks the corporate office wants to keep consistent across the brand. We format reporting so it can be split that way, a franchisee gets the condition findings and recommended scope for their specific location, while the regional office keeps the full portfolio view for its own capital planning.</p>\n<h2>Questions Multi-Site Facilities Managers Ask</h2>\n<h3>Can you service all our locations under one contract?</h3>\n<p>Yes. We prefer a single agreement covering all locations in this market, with consolidated reporting and one point of contact, rather than separate work orders negotiated store by store.</p>\n<h3>How do you keep a store open during a reroof?</h3>\n<p>We phase the work by section, maintain a weathertight condition at the end of every work day, and schedule the loudest tear-off phases around the hours your own traffic data shows are slowest.</p>\n<h3>Do canopy roofs need a different maintenance schedule than the store building?</h3>\n<p>Yes. Canopy structures see different wind loading and vibration than the main building and benefit from a separate inspection interval, particularly after high-wind events common to this corridor.</p>\n<h3>Can you standardize our roof spec across locations with different existing systems?</h3>\n<p>Yes, as each location comes up for repair or replacement we can migrate it toward a consistent spec rather than matching whatever system is currently installed, so the portfolio converges over a normal replacement cycle.</p>\n<h3>How do you handle a hailstorm that damages several of our stores at once?</h3>\n<p>We prioritize active leaks and stores with life-safety or inventory exposure first, then work through the remaining locations with consistent documentation across every site so claims and repair records line up across the whole affected group.</p>\n"
+       "html": "<h1>Keeping a Multi-Site Retail Roof Program Consistent Along I-20</h1>\n<p>A facilities manager overseeing several retail locations, truck stops, or convenience stores across the Odessa market is not managing one roof. Every additional location along I-20 or US-385 adds a different roof age, a different original installer, and a different maintenance history to track, and a program that treats each store as an isolated event loses the consistency that actually controls long-term cost.</p>\n<h2>Managing Roofs Across Scattered Service Areas</h2>\n<p>Chain operators in this market often inherit stores that were built, sold, and re-branded more than once, each with a roof installed by whoever built the original building. We start a multi-site relationship by baselining every location: system type, age, drainage condition, and any active issues, so a facilities manager has one consolidated record instead of separate, inconsistent files from whichever contractor worked each store last.</p>\n<h2>Truck Stops, Convenience Retail, and Canopy Roofs</h2>\n<p>Fuel canopy roofs and the convenience-store buildings behind them along the I-20 and US-385 truck corridor face a specific set of stresses this market's other retail rarely sees: constant vibration and exhaust from truck traffic, grease and vapor exposure near food service areas, and canopy structures that move differently in wind than a standard flat roof. We treat canopy roofing as its own category rather than pricing it the same as a standard store roof, since the fastening, flashing, and membrane choices that hold up under a parking lot canopy differ from what works on an occupied building roof.</p>\n<h2>Keeping Stores Open During Roof Work</h2>\n<p>A closed store during roof work is lost revenue a chain operator has to explain up the corporate chain. We phase reroof and repair work to keep sales floors and fuel operations running, sequencing tear-off and dry-in over sections rather than opening the whole roof at once, and scheduling the noisiest phases around lower-traffic hours where the store's own sales data supports it. Canopy work gets sequenced to keep at least a portion of fuel dispensers operational rather than shutting down the whole forecourt.</p>\n<h2>Standardizing Specs Across a Multi-Site Portfolio</h2>\n<p>A chain operator benefits from a consistent roof spec across locations, same membrane type, same warranty terms, same maintenance interval, rather than whatever system happened to be on sale when each individual store last needed work. We recommend a standard spec appropriate to this climate, high UV, spring hail, and occasional deep winter freeze, and apply it consistently as stores come up for repair or replacement, so the operator's roof program converges toward one system instead of drifting further apart with every new job.</p>\n<h2>What a Multi-Site Roof Program Includes</h2>\n<ul>\n<li>A baseline condition survey across every location, standardized to one reporting format</li>\n<li>A single point of contact managing all sites rather than separate contractors per store</li>\n<li>Consistent membrane and warranty specifications recommended across the portfolio</li>\n<li>Phased scheduling that keeps sales floors and fuel operations open during work</li>\n<li>Canopy-specific inspection and repair standards separate from standard building roof work</li>\n<li>Centralized reporting that rolls up to regional or corporate facilities management</li>\n</ul>\n<h2>Reporting Up the Corporate Chain</h2>\n<p>A facilities manager for a multi-site operator answers to a regional or corporate office that wants roof spending justified across the whole portfolio, not store by store. We provide consolidated reporting that shows condition, priority, and cost across every location we service, so a facilities manager can present a single, defensible capital plan rather than a stack of disconnected store-level quotes. Where storm damage has hit multiple stores in the same weather event, our <a href=\"/services/storm-damage-roof-repair\">storm damage roof repair</a> page covers how we sequence and document multi-location claims.</p>\n<p>Franchise-operated locations add another layer to that reporting. A regional facilities manager overseeing a mix of corporate-owned and franchise-operated stores needs roof condition data that can be shared with a franchisee without exposing internal cost benchmarks the corporate office wants to keep consistent across the brand. We format reporting so it can be split that way, a franchisee gets the condition findings and recommended scope for their specific location, while the regional office keeps the full portfolio view for its own capital planning.</p>\n<h2>Questions Multi-Site Facilities Managers Ask</h2>\n<h3>Can you service all our locations under one contract?</h3>\n<p>Yes. We prefer a single agreement covering all locations in this market, with consolidated reporting and one point of contact, rather than separate work orders negotiated store by store.</p>\n<h3>How do you keep a store open during a reroof?</h3>\n<p>We phase the work by section, maintain a weathertight condition at the end of every work day, and schedule the loudest tear-off phases around the hours your own traffic data shows are slowest.</p>\n<h3>Do canopy roofs need a different maintenance schedule than the store building?</h3>\n<p>Yes. Canopy structures see different wind loading and vibration than the main building and benefit from a separate inspection interval, particularly after high-wind events common to this corridor.</p>\n<h3>Can you standardize our roof spec across locations with different existing systems?</h3>\n<p>Yes, as each location comes up for repair or replacement we can migrate it toward a consistent spec rather than matching whatever system is currently installed, so the portfolio converges over a normal replacement cycle.</p>\n<h3>How do you handle a hailstorm that damages several of our stores at once?</h3>\n<p>We prioritize active leaks and stores with life-safety or inventory exposure first, then work through the remaining locations with consistent documentation across every site so claims and repair records line up across the whole affected group.</p>\n"
       }
      ],
      "faqs": [],
@@ -3466,7 +3466,7 @@
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Public Buildings Answer to a Different Kind of Owner",
@@ -3532,7 +3532,7 @@
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "A Hotel Roof Failure Is a Guest Complaint Before It's a Maintenance Ticket",
@@ -3598,7 +3598,7 @@
       },
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "When the Roof Is Protecting Inventory As Much As the Building",
@@ -3660,7 +3660,7 @@
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Distribution Roofs Are Sized for Square Footage First, Everything Else Second",
@@ -3728,7 +3728,7 @@
       },
       {
        "label": "A Few Buildings, One Gas Plant, and No Room for Guesswork",
-       "href": "/locations/goldsmith"
+       "href": "/service-areas/goldsmith"
       },
       {
        "label": "Distribution Roofs Are Sized for Square Footage First, Everything Else Second",
@@ -3790,7 +3790,7 @@
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "A Leak in an Exam Room Is a Different Kind of Problem",
@@ -3856,7 +3856,7 @@
       },
       {
        "label": "Small Highway-Frontage Buildings Between Monahans and the Pecos River",
-       "href": "/locations/thorntonville"
+       "href": "/service-areas/thorntonville"
       },
       {
        "label": "A Leak Over the Sales Floor Is a Liability Problem Before It's a Roof Problem",
@@ -3918,7 +3918,7 @@
       },
       {
        "label": "Roofing Toyah's Rail-Siding and Highway Buildings Along I-20",
-       "href": "/locations/toyah"
+       "href": "/service-areas/toyah"
       },
       {
        "label": "A Leak in an Exam Room Is a Different Kind of Problem",
@@ -3980,7 +3980,7 @@
       },
       {
        "label": "Cotton Gin and Century-Old Storefront Roofs in Grandfalls",
-       "href": "/locations/grandfalls"
+       "href": "/service-areas/grandfalls"
       },
       {
        "label": "A Hotel Roof Failure Is a Guest Complaint Before It's a Maintenance Ticket",
@@ -4046,7 +4046,7 @@
       },
       {
        "label": "A Well-Service Town Where the Roof Budget Is Tight",
-       "href": "/locations/crane"
+       "href": "/service-areas/crane"
       },
       {
        "label": "When the Roof Is Protecting Inventory As Much As the Building",
@@ -4112,7 +4112,7 @@
       },
       {
        "label": "Wind-Farm Service Yards Next to McCamey's Century-Old Downtown",
-       "href": "/locations/mccamey"
+       "href": "/service-areas/mccamey"
       },
       {
        "label": "Warehouse Roofs Along US-385 and I-20 Take a Different Kind of Beating",
@@ -4174,7 +4174,7 @@
       },
       {
        "label": "What's Actually Holding Up the Flat Roofs Downtown",
-       "href": "/locations/downtown-odessa"
+       "href": "/service-areas/downtown-odessa"
       },
       {
        "label": "Long, Low, and All Seams: Why Self-Storage Roofs Behave Differently",
@@ -4246,7 +4246,7 @@
       },
       {
        "label": "Wind-Farm Service Yards Next to McCamey's Century-Old Downtown",
-       "href": "/locations/mccamey"
+       "href": "/service-areas/mccamey"
       },
       {
        "label": "The Roof Decision Behind a Fabrication Shop's Production Floor",
@@ -4292,7 +4292,7 @@
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "Roof Work Over a Building That Never Closes",
@@ -4338,7 +4338,7 @@
       },
       {
        "label": "Where Pecos County Farming Meets the Yates Field in Imperial",
-       "href": "/locations/imperial"
+       "href": "/service-areas/imperial"
       },
       {
        "label": "One Roof Budget, a Dozen Buildings: The Property Manager's Real Problem",
@@ -4384,7 +4384,7 @@
       },
       {
        "label": "Small Highway-Frontage Buildings Between Monahans and the Pecos River",
-       "href": "/locations/thorntonville"
+       "href": "/service-areas/thorntonville"
       },
       {
        "label": "Honest Roof Documentation After a Permian Basin Hailstorm",
@@ -4430,7 +4430,7 @@
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "Keeping a Multi-Site Retail Roof Program Consistent Along I-20",
@@ -4476,7 +4476,7 @@
       },
       {
        "label": "Roofing Verhalen's Farm Buildings and Highway 17 Traffic",
-       "href": "/locations/verhalen"
+       "href": "/service-areas/verhalen"
       },
       {
        "label": "One Roof Budget, a Dozen Buildings: The Property Manager's Real Problem",
@@ -4522,7 +4522,7 @@
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "Fitting a Roof Project Into a School District's Summer Window",
@@ -4568,7 +4568,7 @@
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "The Roof Decision Behind a Fabrication Shop's Production Floor",
@@ -4614,7 +4614,7 @@
       },
       {
        "label": "Small-Town Packing Sheds Next to a Major Gas Compressor Station in Coyanosa",
-       "href": "/locations/coyanosa"
+       "href": "/service-areas/coyanosa"
       },
       {
        "label": "Roofing Public Buildings Across a Big, Thin County Footprint",
@@ -4660,7 +4660,7 @@
       },
       {
        "label": "Steel Shop and Pole-Barn Roofing South of Odessa's Edge",
-       "href": "/locations/pleasant-farms"
+       "href": "/service-areas/pleasant-farms"
       },
       {
        "label": "The Roof Decision Behind a Fabrication Shop's Production Floor",
@@ -4706,7 +4706,7 @@
       },
       {
        "label": "Rail-Served Warehouse and Yard Roofs Along Wickett's I-20 Frontage",
-       "href": "/locations/wickett"
+       "href": "/service-areas/wickett"
       },
       {
        "label": "One Roof Budget, a Dozen Buildings: The Property Manager's Real Problem",
@@ -4752,7 +4752,7 @@
       },
       {
        "label": "Fabrication Yards and Service Shops West of the City Limits",
-       "href": "/locations/west-odessa"
+       "href": "/service-areas/west-odessa"
       },
       {
        "label": "Roofing Public Buildings Across a Big, Thin County Footprint",
@@ -4804,7 +4804,7 @@
       },
       {
        "label": "A County Seat With Its Own Set of Roofs to Manage",
-       "href": "/locations/andrews"
+       "href": "/service-areas/andrews"
       },
       {
        "label": "A Leak Over the Sales Floor Is a Liability Problem Before It's a Roof Problem",
@@ -4850,7 +4850,7 @@
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "A Plant Roof Works As Hard As the Equipment It Covers",
@@ -4896,7 +4896,7 @@
       },
       {
        "label": "Roofing Loving County's Oilfield Infrastructure, Not a Main Street",
-       "href": "/locations/mentone"
+       "href": "/service-areas/mentone"
       },
       {
        "label": "When the Roof Is Protecting Inventory As Much As the Building",
@@ -4942,7 +4942,7 @@
       },
       {
        "label": "Winkler County's Roofs Run From the Square to the Basin",
-       "href": "/locations/kermit"
+       "href": "/service-areas/kermit"
       },
       {
        "label": "A Plant Roof Works As Hard As the Equipment It Covers",
@@ -4988,7 +4988,7 @@
       },
       {
        "label": "Clear-Span Hangar Roofs and Oilfield Storage Buildings in Pyote",
-       "href": "/locations/pyote"
+       "href": "/service-areas/pyote"
       },
       {
        "label": "Distribution Roofs Are Sized for Square Footage First, Everything Else Second",
@@ -5034,7 +5034,7 @@
       },
       {
        "label": "Field Infrastructure Roofing in a Former Andrews County Oil Camp",
-       "href": "/locations/frankel-city"
+       "href": "/service-areas/frankel-city"
       },
       {
        "label": "One Roof, Half a Dozen Tenants, and the Owner Holding All the Risk",
