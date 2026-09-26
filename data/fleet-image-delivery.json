@@ -1,0 +1,161 @@
+{
+  "domain": "commercialroofersodessa.com",
+  "images": {
+    "/images/brand/logo-on-light.png": {
+      "width": 1104,
+      "height": 223,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/80aa68041033e6e5.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/bd14ce9c966b0432.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/fa8531bee96cb45f.webp",
+          "width": 1104
+        }
+      ],
+      "mobileSize": "188px"
+    },
+    "/ours/services/commercial-roof-inspection-commercial-roofers-odessa-tx.webp": {
+      "width": 2400,
+      "height": 1600,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/604db16ca6a6bd15.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/38fc30ce907c9992.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/6f79027fe41d7fb1.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-leak-repair-commercial-roofers-odessa-tx.webp": {
+      "width": 1800,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/345282f9638a68f7.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/11e2c7f5e9bfb299.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/6ded0fc9751976af.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/services/preventive-maintenance-programs-commercial-roofers-odessa-tx.webp": {
+      "width": 1024,
+      "height": 768,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/f3348069c427fd42.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/aaa6bb9d6f3dcac2.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/8b0b5d2cfb0f6202.webp",
+          "width": 1024
+        }
+      ]
+    },
+    "/ours/project-types/warehouse-roofing-commercial-roofers-odessa-tx.webp": {
+      "width": 2160,
+      "height": 1215,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/85629c9f6b3cd620.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/459a305fc8ebcc9d.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/aba006ac9986bf05.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-odessa-tx.webp": {
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/8628c3e378a8b51b.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/a44002aa77a0e789.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/2938ed6353219ec6.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/industries/property-management-firms-commercial-roofers-odessa-tx.webp": {
+      "width": 1200,
+      "height": 900,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/81cdb727ac103319.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/3c63d1aea0da2f73.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/406e1bb0375b06fe.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/images/brand/logo-on-dark.png": {
+      "width": 1124,
+      "height": 243,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/b517e88af0f0063a.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/a92cf67cf7db1550.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/cdabdf81a480436c.webp",
+          "width": 1124
+        }
+      ],
+      "mobileSize": "300px"
+    }
+  },
+  "lazyImages": [
+    "/ours/services/commercial-roof-leak-repair-commercial-roofers-odessa-tx.webp",
+    "/ours/services/preventive-maintenance-programs-commercial-roofers-odessa-tx.webp",
+    "/ours/project-types/warehouse-roofing-commercial-roofers-odessa-tx.webp",
+    "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-odessa-tx.webp",
+    "/ours/industries/property-management-firms-commercial-roofers-odessa-tx.webp",
+    "/images/brand/logo-on-dark.png"
+  ],
+  "lazyBackgrounds": [],
+  "heroImage": "/ours/services/commercial-roof-inspection-commercial-roofers-odessa-tx.webp"
+}
