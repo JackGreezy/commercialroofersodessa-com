@@ -14,10 +14,17 @@ body {
   overflow-x: hidden;
 }
 
-.odessa-header-help > a {
+.odessa-header-help > a,
+html body #page.site #header #mnh-menu > li.odessa-header-help > a {
   background: var(--odessa-orange) !important;
   color: #fff !important;
   font-weight: 800 !important;
+  text-shadow: none !important;
+}
+
+.our-values-section h2,
+.whoweare-tab-section h2 {
+  color: var(--odessa-blue) !important;
 }
 
 #footer .rr-footer-brand-logo {
@@ -531,6 +538,10 @@ body {
   grid-template-columns: .8fr 1.2fr;
   gap: 70px;
   background: var(--odessa-sky);
+}
+
+.odessa-lead .odessa-kicker {
+  color: var(--odessa-blue-deep);
 }
 
 .odessa-lead h2 {
