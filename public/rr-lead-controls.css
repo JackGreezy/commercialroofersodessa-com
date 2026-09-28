@@ -58,3 +58,20 @@ html[data-rr-page-kind="slug"] .rr-detail-static-carousel [aria-label*="next" i]
 @media(min-width:901px){[data-rr-desktop-phone]{display:inline-flex!important}}
 @media(max-width:900px){html{max-width:100%!important;overflow-x:clip!important}body{max-width:100%!important}[data-rr-desktop-phone]{display:none!important}[data-rr-mobile-phone]{display:flex!important}[data-rr-contact-callout]{align-items:flex-start;flex-direction:column}[data-rr-contact-callout] a{width:100%;box-sizing:border-box}.rr-burger{position:relative!important;inset:auto!important;flex:0 0 auto!important;min-width:48px!important;min-height:48px!important;box-sizing:border-box!important;padding:0!important;overflow:visible!important;transform:none!important}.rr-burger[data-rr-menu-relocated]{position:absolute!important;top:50%!important;right:12px!important;bottom:auto!important;left:auto!important;margin:0!important;z-index:2147482500!important;transform:translateY(-50%)!important}.rr-burger::before,.rr-burger::after,.rr-burger>svg,.rr-burger>i{display:none!important;content:none!important}.rr-burger>span{position:absolute!important;left:50%!important;right:auto!important;bottom:auto!important;display:block!important;width:26px!important;height:2px!important;margin:0!important;padding:0!important;border:0!important;border-radius:2px!important;background:currentColor!important;opacity:1!important;visibility:visible!important;translate:none!important;transform:translate(-50%,-50%)!important}.rr-burger>span:nth-child(1){top:calc(50% - 7px)!important}.rr-burger>span:nth-child(2){top:50%!important}.rr-burger>span:nth-child(3){top:calc(50% + 7px)!important}}
 @media(max-width:640px){html[data-rr-page-kind="slug"] .rr-detail-static-carousel .slick-track,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .swiper-wrapper,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .splide__list,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .glide__slides,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .owl-stage,html[data-rr-page-kind="slug"] .rr-detail-static-carousel [data-rr-track]{grid-template-columns:1fr!important}}
+
+/* Taste fix: "#header .menus" (the always-on "display:flex!important" desktop nav from
+   #rr-chrome-repair) only fits through "Contact"/"Roof Help" starting around 1600px wide; below
+   that they ran off the right edge. At exactly <=1024px a second donor rule (".menus{position:
+   fixed;min-width:60%;...}" from the max-width:1024px legacy stylesheet) also collided with the
+   same ".menus" class and threw the whole row into a floating, mispositioned overlay. Hide the
+   desktop nav and use the site's own working burger + "[data-rr-mobile]" drawer (already built
+   with the same nav links) through 1599px instead; the drawer reuses ".menus" too, so its
+   min-width also needs resetting or it inherits that same 60% collision. */
+@media(max-width:1599px){
+  #header .menus{display:none!important}
+  .rr-burger{display:flex!important}
+}
+@media(min-width:901px) and (max-width:1599px){
+  html body .navbar-collapse.collapse[data-rr-mobile],html body .rr-scrim{display:block!important}
+  html body .navbar-collapse.collapse[data-rr-mobile]{min-width:0!important}
+}
