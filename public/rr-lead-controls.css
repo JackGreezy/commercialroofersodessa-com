@@ -88,3 +88,6 @@ html[data-rr-page-kind="slug"] .rr-detail-static-carousel [aria-label*="next" i]
   html body .navbar-collapse.collapse[data-rr-mobile],html body .rr-scrim{display:block!important}
   html body .navbar-collapse.collapse[data-rr-mobile]{min-width:0!important}
 }
+
+/* Taste: burger sits beside the call button at the right, not glued to the logo */
+@media (min-width:768px) and (max-width:1439px){#header .navbar-header .rr-burger{position:absolute!important;right:40px!important;left:auto!important;top:50%!important;transform:translateY(-50%)!important;margin:0!important}#header a.rr-desktop-phone{right:100px!important}}
