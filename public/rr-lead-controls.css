@@ -59,19 +59,32 @@ html[data-rr-page-kind="slug"] .rr-detail-static-carousel [aria-label*="next" i]
 @media(max-width:900px){html{max-width:100%!important;overflow-x:clip!important}body{max-width:100%!important}[data-rr-desktop-phone]{display:none!important}[data-rr-mobile-phone]{display:flex!important}[data-rr-contact-callout]{align-items:flex-start;flex-direction:column}[data-rr-contact-callout] a{width:100%;box-sizing:border-box}.rr-burger{position:relative!important;inset:auto!important;flex:0 0 auto!important;min-width:48px!important;min-height:48px!important;box-sizing:border-box!important;padding:0!important;overflow:visible!important;transform:none!important}.rr-burger[data-rr-menu-relocated]{position:absolute!important;top:50%!important;right:12px!important;bottom:auto!important;left:auto!important;margin:0!important;z-index:2147482500!important;transform:translateY(-50%)!important}.rr-burger::before,.rr-burger::after,.rr-burger>svg,.rr-burger>i{display:none!important;content:none!important}.rr-burger>span{position:absolute!important;left:50%!important;right:auto!important;bottom:auto!important;display:block!important;width:26px!important;height:2px!important;margin:0!important;padding:0!important;border:0!important;border-radius:2px!important;background:currentColor!important;opacity:1!important;visibility:visible!important;translate:none!important;transform:translate(-50%,-50%)!important}.rr-burger>span:nth-child(1){top:calc(50% - 7px)!important}.rr-burger>span:nth-child(2){top:50%!important}.rr-burger>span:nth-child(3){top:calc(50% + 7px)!important}}
 @media(max-width:640px){html[data-rr-page-kind="slug"] .rr-detail-static-carousel .slick-track,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .swiper-wrapper,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .splide__list,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .glide__slides,html[data-rr-page-kind="slug"] .rr-detail-static-carousel .owl-stage,html[data-rr-page-kind="slug"] .rr-detail-static-carousel [data-rr-track]{grid-template-columns:1fr!important}}
 
-/* Taste fix: "#header .menus" (the always-on "display:flex!important" desktop nav from
-   #rr-chrome-repair) only fits through "Contact"/"Roof Help" starting around 1600px wide; below
-   that they ran off the right edge. At exactly <=1024px a second donor rule (".menus{position:
-   fixed;min-width:60%;...}" from the max-width:1024px legacy stylesheet) also collided with the
-   same ".menus" class and threw the whole row into a floating, mispositioned overlay. Hide the
-   desktop nav and use the site's own working burger + "[data-rr-mobile]" drawer (already built
-   with the same nav links) through 1599px instead; the drawer reuses ".menus" too, so its
-   min-width also needs resetting or it inherits that same 60% collision. */
-@media(max-width:1599px){
+/* Taste fix v2: "#header" itself was never a flex row, so ".navbar-header" (logo+burger),
+   ".menus" (nav) and the JS-appended "[data-rr-desktop-phone]" link (appended straight to
+   #header, sibling to ".container", since this nav has no single "/contact" link for the
+   script to anchor beside) just stacked/floated with the browser's default block spacing -
+   that's why the burger sat glued to the logo text and the phone link floated far away.
+   Turn #header into one flex row with a plain 18px gap, give ".navbar-header" its own gap so
+   the logo and burger aren't touching, and push the phone link right with margin-left:auto so
+   it (and the burger, when shown) land together at the right edge. Round 1 already found the
+   real nav only fits from ~1600px down to ~1440px with 12px text (it also has to beat the
+   old ".menus{position:fixed;min-width:60%}" legacy rule at <=1024px) - keep that as the
+   fallback point but retest and lower it to 1440px now that the row above doesn't collide. */
+#header{display:flex!important;align-items:center!important;gap:18px!important;padding-right:24px!important;box-sizing:border-box!important}
+#header>*{margin:0!important;flex-shrink:0!important}
+.navbar-header{gap:14px!important}
+[data-rr-desktop-phone]{margin-left:auto!important}
+@media(min-width:1440px){
+  #header .menus{display:flex!important}
+  .rr-burger{display:none!important}
+  #mnh-menu.nav.navbar-nav{gap:18px!important}
+  html body #header #mnh-menu>li>a{font-size:12px!important;padding:22px 4px!important}
+}
+@media(max-width:1439px){
   #header .menus{display:none!important}
   .rr-burger{display:flex!important}
 }
-@media(min-width:901px) and (max-width:1599px){
+@media(min-width:901px) and (max-width:1439px){
   html body .navbar-collapse.collapse[data-rr-mobile],html body .rr-scrim{display:block!important}
   html body .navbar-collapse.collapse[data-rr-mobile]{min-width:0!important}
 }
