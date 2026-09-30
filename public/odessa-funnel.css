@@ -829,3 +829,79 @@ html body #page.site #header #mnh-menu > li.odessa-header-help > a {
     grid-column: auto;
   }
 }
+
+/* inner-page repair v1: detail hero slider, detail column, footer backgrounds */
+html[data-rr-page-kind] .ourwork-content>.container>.col-sm-10.col-sm-offset-1,html[data-rr-page-kind] .ourwork-content>.container>.content-box{float:none!important;clear:both!important;width:100%!important;max-width:920px!important;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box!important}
+html[data-rr-page-kind] .ourwork-content>.container>.content-box{padding-left:15px!important;padding-right:15px!important}
+html[data-rr-page-kind] body #the-projects-slider,html[data-rr-page-kind] body .project-slider-rapper,html[data-rr-page-kind] body .project-slide-show,html[data-rr-page-kind] body .project-slide-show .slick-list{height:auto!important;min-height:0!important}
+html[data-rr-page-kind] .project-slider-rapper .project-slide-show .slick-list,html[data-rr-page-kind] .project-slider-rapper .project-slide-show .slick-slide,html[data-rr-page-kind] .project-slider-rapper .project-slide-show .slide-item{width:100%!important;max-width:100%!important;display:block!important}
+html[data-rr-page-kind] .project-slider-rapper .project-slide-show{max-width:100%!important;margin:0 0 28px!important;overflow:hidden!important;border-radius:6px!important}
+html[data-rr-page-kind] .project-slider-rapper .project-slide-show [data-rr-track],html[data-rr-page-kind] .project-slider-rapper .project-slide-show .slick-track{display:block!important;width:100%!important}
+html[data-rr-page-kind] .project-slider-rapper .project-slide-show .slick-slide:not(:first-child),html[data-rr-page-kind] .project-slider-rapper .project-slide-show [data-rr-slide]:not(:first-child){display:none!important}
+html[data-rr-page-kind] .project-slider-rapper .project-slide-show img{display:block!important;width:100%!important;height:auto!important;max-height:440px!important;object-fit:cover!important}
+html body #page.site footer#footer{background:linear-gradient(135deg,#123650,#101820)!important;padding-top:40px!important}
+html body #page.site footer#footer .rr-footer-brand-wrap,html body #page.site footer#footer .container,html body #page.site footer#footer .col-md-10,html body #page.site footer#footer .footer-menu,html body #page.site footer#footer .footer-menu ul,html body #page.site footer#footer .rr-footer-ia,html body #page.site footer#footer .rr-footer-brand-logo,html body #page.site footer#footer .rr-wordmark{background:none!important;box-shadow:none!important}
+
+/* index card grid: the donor masonry needs script; lay the cards out as a plain grid */
+html body .project-slider-section .projects.mixer{gap:28px!important;padding:0 15px!important;box-sizing:border-box!important}
+html body .project-slider-section .projects .project{width:auto!important;min-width:0!important;height:auto!important;min-height:0!important;margin:0!important;display:flex!important;flex-direction:column!important;overflow:hidden!important}
+html body .project-slider-section .projects .project>img{position:static!important;inset:auto!important;display:block!important;width:100%!important;height:220px!important;object-fit:cover!important;flex:0 0 auto!important}
+html body .project-slider-section .projects .project .slide-text{position:static!important;display:flex!important;flex:1 1 auto!important;width:100%!important;height:auto!important;padding:22px 22px 24px!important;box-sizing:border-box!important;background:none!important}
+html body .project-slider-section .projects .project .slide-text>div{float:none!important;width:100%!important;max-width:100%!important;margin:0!important;padding:0!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important;gap:10px}
+html body .project-slider-section .projects .project .slide-text h6,html body .project-slider-section .projects .project .slide-text h4{margin:0!important;width:100%!important;max-width:100%!important}
+html body .project-slider-section .projects .project .slide-text span{display:block!important;width:100%!important;max-width:100%!important;overflow-wrap:break-word!important}
+html body .project-slider-section .projects .project .slide-text .button{position:static!important;margin-top:auto!important;align-self:flex-start!important}
+html body .project-slider-section .projects.mixer{align-items:stretch!important;justify-content:stretch!important}
+html body .project-slider-section .projects .project .slide-text h6{color:rgba(255,255,255,.88)!important}
+
+/* phone: banner tall enough for its title, readable over the photo; footer link row padding */
+@media(max-width:767px){
+html body .content-header-section .slider.banner{min-height:210px!important;height:210px!important}
+html body .content-header-section .slider.banner>img{height:210px!important;width:100%!important;object-fit:cover!important}
+html body .content-header-section .slider.banner::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(16,24,32,.15),rgba(16,24,32,.72));pointer-events:none}
+html body .content-header-section .slider.banner .banner-content{bottom:0!important;top:auto!important;padding:0 16px 18px!important;z-index:2;height:auto!important}
+html body .content-header-section .slider.banner h1{text-shadow:0 2px 10px rgba(0,0,0,.55)}
+html body footer#footer .rr-footer-ia{padding:22px 20px 8px!important;justify-content:flex-start!important;gap:10px 22px!important;flex-wrap:wrap!important;box-sizing:border-box!important}
+}
+
+/* intent page template (capabilities/roof-asset-management): readable body copy, padded column, styled FAQ and funnel */
+html body .rh-intent-page .rh-intent-hero{padding:64px 24px 52px!important;background:#eef3f8!important}
+html body .rh-intent-page .rh-intent-hero>div,html body .rh-intent-page .rh-intent-content,html body .rh-intent-page .rh-leak-funnel{max-width:1000px!important;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box!important}
+html body .rh-intent-page .rh-intent-hero h1{font-size:clamp(32px,5vw,56px)!important;line-height:1.08!important;color:#123650!important}
+html body .rh-intent-page .rh-intent-hero p{font-size:18px!important;line-height:1.7!important;max-width:820px}
+html body .rh-intent-page .rh-intent-content{padding:48px 24px 12px!important}
+html body .rh-intent-page .rh-intent-content p,html body .rh-intent-page .rh-intent-content li{font-size:17px!important;line-height:1.75!important;color:#26323d!important;margin:0 0 16px!important}
+html body .rh-intent-page .rh-intent-content h2{font-size:clamp(24px,2.6vw,32px)!important;line-height:1.2!important;color:#123650!important;margin:0 0 14px!important}
+html body .rh-intent-page .rh-intent-content ul{padding-left:24px!important;margin:0 0 16px!important}
+html body .rh-intent-page .rh-intent-content section{margin-bottom:34px!important}
+html body .rh-intent-page details{border:1px solid #d3dbe3!important;border-radius:6px!important;background:#fff!important;margin:0 0 12px!important;padding:0 20px!important}
+html body .rh-intent-page details>summary{cursor:pointer!important;padding:16px 28px 16px 0!important;font-size:18px!important;font-weight:700!important;line-height:1.35!important;color:#123650!important}
+html body .rh-intent-page details[open]>summary{border-bottom:1px solid #e3e8ee!important;margin-bottom:14px!important}
+html body .rh-intent-page details>p{margin:0 0 18px!important}
+html body .rh-intent-page .rh-leak-funnel{padding:24px 24px 64px!important}
+html body .rh-intent-page .rh-leak-funnel header{background:none!important;box-shadow:none!important;padding:0!important;color:#123650!important}
+html body .rh-intent-page .rh-leak-funnel header h2{font-size:clamp(26px,3vw,36px)!important;line-height:1.15!important;color:#123650!important;margin:6px 0 12px!important}
+html body .rh-intent-page .rh-leak-funnel header p{font-size:17px!important;line-height:1.65!important;color:#26323d!important}
+html body .rh-intent-page .rh-leak-funnel header>p:first-child{font-size:13px!important;color:#c95211!important}
+html body .rh-intent-page .rh-leak-funnel-grid a{border:1px solid #c6d1db!important;border-radius:6px!important;background:#fff!important;color:#123650!important;min-height:112px!important;padding:18px 20px!important}
+html body .rh-intent-page .rh-leak-funnel-grid a:hover{border-color:#c95211!important}
+html body .rh-intent-page .rh-leak-funnel-grid span{font-size:14px!important;opacity:.8!important;color:#3b4a57!important}
+html body .rh-intent-page .rh-leak-funnel-grid strong{font-size:18px!important}
+html body .rh-intent-page .rh-intent-cta,html body .rh-intent-page .rh-leak-funnel-contact a{font-size:16px!important;border-radius:3px!important}
+html body a.rh-rain-intent-link{display:block!important;width:fit-content!important;margin:0 auto 8px!important;max-width:952px!important;box-sizing:border-box!important}
+
+/* about: sidebar cards and values band */
+html body .sidebar-box{background:linear-gradient(135deg,#123650,#101820)!important;color:#fff!important}
+html body .sidebar-box h3,html body .sidebar-box p{color:#fff!important}
+html body .values-box{background:#123650!important}
+html body .values-box h2,html body .values-box h3{color:#fff!important}
+
+/* privacy and terms: body copy sits in <main> ahead of the banner; put the banner first and pad the column */
+html body #page.site{display:flex!important;flex-direction:column!important}
+html body #page.site>main{order:2;width:100%;max-width:860px;margin:0 auto;padding:44px 24px 72px;box-sizing:border-box}
+html body #page.site>footer#footer{order:3}
+html body #page.site>main h1{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+html body #page.site>main h2{font-size:26px!important;line-height:1.2!important;color:#123650!important;margin:34px 0 10px!important}
+html body #page.site>main p{font-size:17px!important;line-height:1.75!important;color:#26323d!important;margin:0 0 16px!important}
+html body #page.site>main a{overflow-wrap:anywhere}
+html body .content.contact-content:has(.filters):not(:has(form)){display:none!important}
