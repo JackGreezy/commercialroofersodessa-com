@@ -1,0 +1,268 @@
+{
+  "titles": {
+    "/about": {
+      "description": "Learn how Commercial Roofers of Odessa plans commercial roof inspections, repairs, maintenance, replacements, and coating scopes for facilities across Odessa."
+    },
+    "/contact": {
+      "description": "Contact Commercial Roofers of Odessa for commercial roof leak repair, inspection, maintenance, replacement, coating, and budgeting help across Odessa."
+    },
+    "/industries": {
+      "description": "Commercial roofing by industry in Odessa, TX, with roof scopes, access planning, and maintenance matched to how each type of facility operates."
+    },
+    "/industries/general-contractors": {
+      "description": "A roofing subcontractor for Odessa general contractors building metal shells and tenant finish-outs, with submittal packages and a schedule that actually holds."
+    },
+    "/industries/retail-chain-operators": {
+      "description": "Roof consistency for multi-site retail, truck stop, and convenience-store operators along I-20 and US-385 near Odessa, without closing stores to get work done."
+    },
+    "/manufacturers": {
+      "description": "Commercial roofing manufacturer systems installed in Odessa, TX, with spec review, installation details, and warranty documentation for each product line."
+    },
+    "/manufacturers/gaf-commercial": {
+      "description": "GAF EverGuard TPO and commercial roofing systems available for Odessa buildings, material availability and warranty basics, from Commercial Roofers of Odessa."
+    },
+    "/manufacturers/holcim-elevate": {
+      "description": "Holcim Elevate, formerly Firestone Building Products, TPO and EPDM roofing systems for Odessa commercial buildings, from Commercial Roofers of Odessa."
+    },
+    "/manufacturers/johns-manville": {
+      "description": "Johns Manville TPO, modified bitumen, and insulation roofing systems for Odessa commercial buildings, explained by Commercial Roofers of Odessa."
+    },
+    "/manufacturers/sika-sarnafil": {
+      "description": "Sika Sarnafil PVC membrane systems for chemical and grease-exposed commercial roofs around Odessa, explained by Commercial Roofers of Odessa."
+    },
+    "/manufacturers/versico": {
+      "description": "Versico TPO, EPDM, and PVC roofing membrane systems and warranty basics for Odessa commercial buildings, explained by Commercial Roofers of Odessa."
+    },
+    "/privacy": {
+      "description": "Privacy policy for Commercial Roofers of Odessa, including how roofing inquiry information is used to respond to roof assessment requests."
+    },
+    "/project-types": {
+      "description": "Commercial roofing by building type in Odessa, TX, with roof scopes matched to each property's use, access needs, and risk, from retail to industrial."
+    },
+    "/project-types/distribution-center-roofing": {
+      "description": "Roof maintenance and repair for Odessa distribution centers, covering large-membrane drainage, dock door wear, and 24-hour operation scheduling."
+    },
+    "/project-types/government-municipal-roofing": {
+      "description": "Roof assessment and repair for Ector County and City of Odessa civic buildings, budgeted and documented to fit public procurement timelines."
+    },
+    "/project-types/grocery-store-roofing": {
+      "description": "Roof repair for Odessa grocery stores, covering refrigeration condenser loads, deli and bakery exhaust grease, and keeping stores open during repairs."
+    },
+    "/project-types/hotel-hospitality-roofing": {
+      "description": "Roof repair and maintenance for Odessa hotels and extended-stay properties, planned around guest occupancy and Permian Basin oil-cycle demand swings."
+    },
+    "/project-types/industrial-flex-space-roofing": {
+      "description": "Roof repair and management for multi-tenant industrial flex buildings serving Odessa oilfield service companies, with mixed office and shop bays under one roof."
+    },
+    "/project-types/manufacturing-plant-roofing": {
+      "description": "Roofing for Odessa fabrication plants and oilfield equipment manufacturers, covering weld exposure, exhaust penetrations, and crane-rail roof loads."
+    },
+    "/project-types/medical-office-building-roofing": {
+      "description": "Roof repair for Odessa medical office buildings near the Medical Center Hospital corridor, planned around patient hours and sensitive equipment."
+    },
+    "/project-types/self-storage-facility-roofing": {
+      "description": "Roof inspection and repair for Odessa self-storage properties, covering long metal-panel buildings, hail exposure, and liability for stored customer property."
+    },
+    "/project-types/warehouse-roofing": {
+      "description": "Warehouse roof inspections and repair for Odessa oilfield storage, pipe yard buildings, and distribution warehouses along US-385 and I-20."
+    },
+    "/roof-systems": {
+      "description": "Commercial roof systems for Odessa, TX buildings, compared by performance, repairability, warranty terms, and replacement planning."
+    },
+    "/roof-systems/epdm-black": {
+      "description": "Black EPDM membrane performance, heat gain, and retrofit compatibility for Odessa commercial roofs, explained by Commercial Roofers of Odessa."
+    },
+    "/roof-systems/epdm-white": {
+      "description": "White EPDM membrane options for reflective retrofits over metal buildings and warehouses in Odessa, explained by Commercial Roofers of Odessa."
+    },
+    "/roof-systems/modified-bitumen-sbs": {
+      "description": "SBS modified bitumen roofing for Odessa's older low-slope buildings, hail resistance, and built-up roof retrofits, from Commercial Roofers of Odessa."
+    },
+    "/roof-systems/tpo-80-mil": {
+      "description": "Why 80 mil TPO is the upgrade Permian Basin owners specify for hail exposure and heavy rooftop traffic in Odessa, from Commercial Roofers of Odessa."
+    },
+    "/service-areas": {
+      "description": "Commercial roofing service areas around Odessa, TX, with local roof inspection, repair, and replacement for the neighborhoods and corridors we cover."
+    },
+    "/service-areas/andrews": {
+      "description": "Commercial roofing contractors serving Andrews, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/barstow": {
+      "description": "Commercial roofing contractors serving Barstow, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/coyanosa": {
+      "description": "Commercial roofing contractors serving Coyanosa, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/crane": {
+      "description": "Commercial roofing contractors serving Crane, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/downtown-odessa": {
+      "description": "Commercial roofing contractors serving Downtown Odessa, TX with roof repair, replacement, coatings, maintenance, inspections, and roof reports."
+    },
+    "/service-areas/frankel-city": {
+      "description": "Commercial roofing contractors serving Frankel City, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/gardendale": {
+      "description": "Commercial roofing contractors serving Gardendale, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/goldsmith": {
+      "description": "Commercial roofing contractors serving Goldsmith, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/grandfalls": {
+      "description": "Commercial roofing contractors serving Grandfalls, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/imperial": {
+      "description": "Commercial roofing contractors serving Imperial, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/kermit": {
+      "description": "Commercial roofing contractors serving Kermit, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/mccamey": {
+      "description": "Commercial roofing contractors serving Mccamey, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/mentone": {
+      "description": "Commercial roofing contractors serving Mentone, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/monahans": {
+      "description": "Commercial roofing contractors serving Monahans, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/notrees": {
+      "description": "Commercial roofing contractors serving Notrees, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/pecos": {
+      "description": "Commercial roofing contractors serving Pecos, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/penwell": {
+      "description": "Commercial roofing contractors serving Penwell, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/pleasant-farms": {
+      "description": "Commercial roofing contractors serving Pleasant Farms, TX with roof repair, replacement, coatings, maintenance, inspections, and roof reports."
+    },
+    "/service-areas/pyote": {
+      "description": "Commercial roofing contractors serving Pyote, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/royalty": {
+      "description": "Commercial roofing contractors serving Royalty, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/thorntonville": {
+      "description": "Commercial roofing contractors serving Thorntonville, TX with roof repair, replacement, coatings, maintenance, inspections, and roof reports."
+    },
+    "/service-areas/toyah": {
+      "description": "Commercial roofing contractors serving Toyah, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/verhalen": {
+      "description": "Commercial roofing contractors serving Verhalen, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/west-odessa": {
+      "description": "Commercial roofing contractors serving West Odessa, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/wickett": {
+      "description": "Commercial roofing contractors serving Wickett, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/service-areas/wink": {
+      "description": "Commercial roofing contractors serving Wink, TX with roof repair, replacement, coatings, maintenance programs, inspections, and documented roof reports."
+    },
+    "/services": {
+      "description": "Commercial roofing services in Odessa, TX: repair, replacement, coatings, maintenance programs, and inspections scoped from documented roof conditions."
+    },
+    "/services/acrylic-roof-coatings": {
+      "description": "Commercial roof coatings in Odessa with candidacy checks, preparation requirements, restoration scope, drainage review, and warranty planning."
+    },
+    "/services/built-up-roofing": {
+      "description": "Built-up tar-and-gravel roof repair and replacement guidance for Odessa's older commercial buildings, from an owner's-advocate roofing crew."
+    },
+    "/services/commercial-reroofing": {
+      "description": "When a repair budget stops making sense for an Odessa commercial roof, and how we plan a full reroof around metal buildings, service yards, and working hours."
+    },
+    "/services/commercial-roof-insurance-claims": {
+      "description": "Roof damage documentation, adjuster walkthroughs, and full-scope assessments for Odessa commercial roof insurance claims, built on accurate findings."
+    },
+    "/services/edge-metal-coping-gutters": {
+      "description": "Why edge metal and coping fail first on Odessa's commercial roofs, and how proper edge and gutter repair prevents wind uplift and water intrusion."
+    },
+    "/services/insurance-documentation-support": {
+      "description": "Photo documentation and factual damage reports for Odessa commercial roof claims, giving owners a clear paper trail before and after a storm event."
+    },
+    "/services/metal-r-panel-roofing": {
+      "description": "R-panel metal roofing for Odessa service yards and shops. We explain the maintenance schedule this system needs and when it's still the right call."
+    },
+    "/services/roof-drains-scuppers": {
+      "description": "Clogged and undersized roof drains cause more ponding damage in Odessa than most owners realize. Drain and scupper repair, clearing, and replacement."
+    },
+    "/services/standing-seam-metal-roofing": {
+      "description": "Standing seam metal roofing for Odessa's fabrication shops, pipe yards, and service buildings, with straight talk on fastener choice and panel gauge."
+    },
+    "/services/storm-damage-roof-repair": {
+      "description": "Hail and wind damage assessment and repair for Odessa commercial roofs, with clear documentation of what a storm actually did to your roof system."
+    },
+    "/services/tpo-single-ply-roofing": {
+      "description": "TPO roofing installed and repaired across Odessa, TX. We help owners weigh membrane thickness, seam quality, and heat reflectivity before they commit."
+    },
+    "/terms": {
+      "description": "Terms of use for Commercial Roofers of Odessa, including website information, roofing inquiry handling, and responsible use of the site."
+    },
+    "/industries/education-facilities": {
+      "description": "Roof planning for Ector County ISD, Odessa College, and UTPB facilities staff, scheduled to the summer work window and bond funding cycles."
+    },
+    "/industries/government-public-sector": {
+      "description": "Roof bids and repairs for Ector County and smaller Permian Basin county seats, priced for competitive procurement rules and public budget accountability."
+    },
+    "/industries/healthcare-systems": {
+      "description": "Roof planning for Odessa hospital and clinic facilities directors managing occupied, 24-hour patient care buildings with schedules built around the building."
+    },
+    "/industries/insurance-restoration": {
+      "description": "Roof damage documentation for Odessa owners and restoration companies after Permian Basin hail and wind, without inflated claims or storm-chaser pressure t."
+    },
+    "/industries/manufacturing-operators": {
+      "description": "Roofing guidance for plant and operations managers running fabrication buildings in Odessa, where a roof failure means production downtime, not a wet ceili."
+    },
+    "/industries/property-management-firms": {
+      "description": "Roof planning for Odessa property managers running a portfolio of retail, office, and flex buildings, where one budget has to cover many roofs at different."
+    },
+    "/manufacturers/carlisle-syntec": {
+      "description": "Carlisle SynTec EPDM and TPO membrane systems, product lines, and warranty basics for Odessa commercial roofs, explained by Commercial Roofers of Odessa."
+    },
+    "/project-types/auto-dealership-roofing": {
+      "description": "Roofing for Odessa auto and truck dealerships, covering showroom brand-image roofs, service bay wear, and hail exposure to roof and vehicle inventory alike."
+    },
+    "/project-types/big-box-retail-roofing": {
+      "description": "Roof inspection and repair for Odessa big-box retail stores, covering liability risk under the sales floor, aging membrane, and store-hours scheduling."
+    },
+    "/project-types/restaurant-standalone-roofing": {
+      "description": "Roof repair for Odessa standalone restaurants and truck-stop diners along I-20, focused on kitchen exhaust grease risk and around-the-clock kitchen hours."
+    },
+    "/roof-systems/pvc-roof-systems": {
+      "description": "PVC membrane chemical and grease resistance for Odessa fabrication shops, truck stops, and oilfield service buildings, from Commercial Roofers of Odessa."
+    },
+    "/roof-systems/silicone-roof-coating": {
+      "description": "Silicone roof coating restoration for aging metal and single-ply roofs in Odessa, ponding resistance and UV performance, from Commercial Roofers of Odessa."
+    },
+    "/roof-systems/spray-polyurethane-foam": {
+      "description": "Spray polyurethane foam roofing for Odessa's irregular metal building retrofits, covering wind uplift and sand abrasion, from Commercial Roofers of Odessa."
+    },
+    "/roof-systems/tpo-60-mil": {
+      "description": "60 mil TPO membrane thickness, hail exposure, and wind-uplift attachment for Odessa and Permian Basin commercial roofs from Commercial Roofers of Odessa."
+    },
+    "/services/epdm-commercial-roofing": {
+      "description": "EPDM roofing for Odessa commercial buildings. We walk owners through the hail-risk tradeoff before recommending black rubber membrane over other options."
+    },
+    "/services/hail-damage-roof-insurance-claims": {
+      "description": "Hail is the peril that hits Odessa commercial roofs hardest. We document dents, bruised membrane, and granule loss so your claim reflects the real damage."
+    },
+    "/services/modified-bitumen-roofing": {
+      "description": "Modified bitumen roof replacement and repair for Odessa's older commercial buildings, with an honest look at torch-applied versus cold-applied installation."
+    },
+    "/services/pvc-roofing": {
+      "description": "PVC membrane roofing for Odessa fabrication shops and oilfield service buildings where grease, chemical exposure, or hot equipment rule out other membranes."
+    },
+    "/services/roof-recover-overlay": {
+      "description": "Recover versus tear-off for Odessa commercial roofs. We explain the code limits, moisture risks, and hidden costs owners need to weigh before choosing."
+    },
+    "/services/snow-ice-roof-damage-insurance-claims": {
+      "description": "Odessa doesn't see winter often, but hard freeze events crack brittle membrane and burst drains. We document freeze-related roof damage for your claim."
+    },
+    "/services/wind-storm-damage-roof-insurance-claims": {
+      "description": "Straight-line wind, dust storms, and tornado-warned cells hit Odessa roofs hard. We document wind damage accurately so your claim reflects the real scope."
+    }
+  }
+}
