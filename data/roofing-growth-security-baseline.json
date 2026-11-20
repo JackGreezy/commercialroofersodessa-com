@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "domain": "commercialroofersodessa.com",
+  "productionDeployment": "dpl_2N1cdL9FX3njQVXeqB7bzEeP8LaW",
+  "handlerFile": "api/submit.js",
+  "handlerNormalizedSha256": "91d7fbba020ecd19ecb59df1dfc87c62f497ec6256901f7dc4fdca4127532cb3",
+  "dependenciesSha256": "e124745ae55cbca2810a1a15bda63fb27cb25dd09c4ef7c41efd5e2e8e201cfd",
+  "securityFiles": [
+    {
+      "path": "api/turnstile-config.js",
+      "sha256": "024de2d7059f7875be4e37054c4353211c9d435ed3b327da6f4b78ffb3624828"
+    },
+    {
+      "path": "lib/turnstile.js",
+      "sha256": "e4237fa4fa0616397e82f2c3065b8db470145a29ed2502a8db8b7c32a9e397c1"
+    },
+    {
+      "path": "public/rr-lead-controls.css",
+      "sha256": "d6f6c959a51dee0e2fd9730626e3e8618795d17400dd27bbf67c60f845b59eef"
+    },
+    {
+      "path": "public/rr-lead-controls.js",
+      "sha256": "b65e2326d4cd953a2eae3b065d860f504fe4464eadfb1a132296f91230f9e004"
+    },
+    {
+      "path": "public/turnstile-contact.js",
+      "sha256": "833f8bfa3a9a48a58c8dd7a7500aabe0e313d5c6d8af0941b08f530d340f59bb"
+    },
+    {
+      "path": "scripts/finalize-lead-controls.mjs",
+      "sha256": "a99b7650de93adc3d18e2a1800ccdc49d737bce585bf95272c90518e862eb56b"
+    },
+    {
+      "path": "scripts/inject-turnstile.mjs",
+      "sha256": "7d1ca41a5aeb07bf67751c64783b9b82b15265cfc4234381097df0e898eae732"
+    }
+  ]
+}

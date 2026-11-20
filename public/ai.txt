@@ -1,0 +1,25 @@
+[identity]
+name: Commercial Roofers of Odessa
+url: https://commercialroofersodessa.com
+description: Need commercial roof help in Odessa? Request leak repair, a flat roof inspection, service agreement, coating review, or reroofing plan.
+contact: install@commercialroofersodessa.com
+
+[permissions]
+Summarise, quote with attribution, cite, and index public content for search and answers.
+
+[restrictions]
+Do not fabricate quotes, reviews, ratings, project results, prices, or guarantees.
+Do not present this content as your own. Private and authenticated content is excluded.
+Training-crawler permissions are unchanged; consult robots.txt.
+
+[attribution]
+Cite Commercial Roofers of Odessa and the canonical HTML URL provided with each document.
+
+[scope]
+Included: public pages in https://commercialroofersodessa.com/api/md/_catalog
+Excluded: /api/, /admin/, /portal/, /dashboard/, /auth/, /sign-in, /sign-up, /onboarding/, /dev-access, drafts and noindex pages.
+
+[contact]
+install@commercialroofersodessa.com
+
+# Keep in sync with robots.txt and llms.txt. Generated from the public route registry.

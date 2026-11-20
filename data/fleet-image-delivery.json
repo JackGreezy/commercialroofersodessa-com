@@ -74,24 +74,6 @@
         }
       ]
     },
-    "/ours/project-types/warehouse-roofing-commercial-roofers-odessa-tx.webp": {
-      "width": 2160,
-      "height": 1215,
-      "variants": [
-        {
-          "src": "/performance/fleet-images/85629c9f6b3cd620.webp",
-          "width": 400
-        },
-        {
-          "src": "/performance/fleet-images/459a305fc8ebcc9d.webp",
-          "width": 828
-        },
-        {
-          "src": "/performance/fleet-images/aba006ac9986bf05.webp",
-          "width": 1240
-        }
-      ]
-    },
     "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-odessa-tx.webp": {
       "width": 1920,
       "height": 1080,
@@ -151,7 +133,7 @@
   "lazyImages": [
     "/ours/services/commercial-roof-leak-repair-commercial-roofers-odessa-tx.webp",
     "/ours/services/preventive-maintenance-programs-commercial-roofers-odessa-tx.webp",
-    "/ours/project-types/warehouse-roofing-commercial-roofers-odessa-tx.webp",
+    "/ours/project-types/warehouse-roofing-commercial-roofers-odessa-tx-r2.webp",
     "/ours/project-types/manufacturing-plant-roofing-commercial-roofers-odessa-tx.webp",
     "/ours/industries/property-management-firms-commercial-roofers-odessa-tx.webp",
     "/images/brand/logo-on-dark.png"

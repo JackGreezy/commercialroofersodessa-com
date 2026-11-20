@@ -898,10 +898,45 @@ html body .values-box h2,html body .values-box h3{color:#fff!important}
 
 /* privacy and terms: body copy sits in <main> ahead of the banner; put the banner first and pad the column */
 html body #page.site{display:flex!important;flex-direction:column!important}
-html body #page.site>main{order:2;width:100%;max-width:860px;margin:0 auto;padding:44px 24px 72px;box-sizing:border-box}
+html body #page.site>main:not(.odessa-main){order:2;width:100%;max-width:860px;margin:0 auto;padding:44px 24px 72px;box-sizing:border-box}
 html body #page.site>footer#footer{order:3}
-html body #page.site>main h1{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-html body #page.site>main h2{font-size:26px!important;line-height:1.2!important;color:#123650!important;margin:34px 0 10px!important}
-html body #page.site>main p{font-size:17px!important;line-height:1.75!important;color:#26323d!important;margin:0 0 16px!important}
-html body #page.site>main a{overflow-wrap:anywhere}
+html body #page.site>main:not(.odessa-main) h1{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+html body #page.site>main:not(.odessa-main) h2{font-size:26px!important;line-height:1.2!important;color:#123650!important;margin:34px 0 10px!important}
+html body #page.site>main:not(.odessa-main) p{font-size:17px!important;line-height:1.75!important;color:#26323d!important;margin:0 0 16px!important}
+html body #page.site>main:not(.odessa-main) a{overflow-wrap:anywhere}
 html body .content.contact-content:has(.filters):not(:has(form)){display:none!important}
+
+/* layout repair: main must span the page; hero text must stay readable */
+#page { display: block !important; }
+main.odessa-main { display: block; width: 100% !important; max-width: none !important; margin: 0 !important; float: none !important; }
+.odessa-hero { display: block !important; position: relative; min-height: 0 !important; background: var(--odessa-blue-deep); }
+.odessa-hero__media { min-height: clamp(540px, calc(100vh - 110px), 700px) !important; align-items: center !important; }
+.odessa-hero__media::after { background: linear-gradient(90deg, rgba(3,26,47,.88), rgba(3,26,47,.5) 60%, rgba(3,26,47,.25)) !important; z-index: 0; }
+.odessa-hero__copy { z-index: 2 !important; padding: 60px 0 60px max(24px, 6vw) !important; width: min(860px, calc(100% - 48px)) !important; }
+.odessa-hero__copy h1, .odessa-hero__copy > p, .odessa-hero__copy .odessa-hero__buttons a { color: #fff !important; }
+.odessa-hero__copy .odessa-kicker { color: var(--odessa-yellow) !important; }
+.odessa-hero__copy .odessa-button:not(.odessa-button--outline) { color: #10242e !important; }
+.odessa-hero__actions { grid-template-rows: none !important; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.odessa-hero__actions article:nth-child(1), .odessa-hero__actions article:nth-child(1) h2, .odessa-hero__actions article:nth-child(1) p, .odessa-hero__actions article:nth-child(1) span, .odessa-hero__actions article:nth-child(1) a { color: #fff !important; }
+.odessa-hero__actions article:nth-child(2) h2, .odessa-hero__actions article:nth-child(2) p, .odessa-hero__actions article:nth-child(2) span, .odessa-hero__actions article:nth-child(2) a { color: var(--odessa-blue-deep) !important; }
+.odessa-hero__actions article:nth-child(3) h2, .odessa-hero__actions article:nth-child(3) p, .odessa-hero__actions article:nth-child(3) span, .odessa-hero__actions article:nth-child(3) a { color: #10242e !important; }
+@media (max-width: 900px) { .odessa-hero__actions { grid-template-columns: 1fr; } .odessa-hero__media { min-height: 520px !important; } }
+p.rh-rain-intent-link { margin: 0; padding: 6px 20px; text-align: center; font-size: 13px; }
+p.rh-rain-intent-link a { color: #55656e; text-decoration: none; }
+.odessa-hero__buttons { gap: 14px !important; }
+.odessa-hero__copy .odessa-button.odessa-button--outline { background: transparent !important; border: 2px solid rgba(255,255,255,.85) !important; color: #fff !important; }
+.odessa-hero__copy .odessa-button { padding-left: 24px; padding-right: 24px; }
+.odessa-hero__buttons { background: transparent !important; padding: 0 !important; border: 0 !important; box-shadow: none !important; }
+.odessa-hero__media > img { height: 100% !important; width: 100% !important; }
+@media (max-width: 900px) {
+  .odessa-hero__copy h1 { text-align: left !important; font-size: clamp(34px, 10vw, 48px) !important; }
+  .odessa-hero__media { height: auto !important; }
+  .odessa-hero__copy { padding: 56px 0 56px 24px !important; }
+  .odessa-hero__buttons .odessa-button { width: 100%; max-width: 340px; }
+}
+html body div.odessa-hero__buttons { background: transparent !important; border: 0 !important; padding: 0 !important; }
+html body div.odessa-hero__copy a.odessa-button.odessa-button--outline { background: transparent !important; border: 2px solid rgba(255,255,255,.85) !important; color: #fff !important; }
+html body .odessa-hero__media > img { height: 100% !important; min-height: 100% !important; object-fit: cover !important; }
+html body [data-rr-band] .odessa-hero__media > img:not([data-rr-carousel] img) { height: 100% !important; min-height: 100% !important; position: absolute !important; }
+main.odessa-main { padding-top: 30px !important; }
+@media (max-width: 900px) { main.odessa-main { padding-top: 4px !important; } }
