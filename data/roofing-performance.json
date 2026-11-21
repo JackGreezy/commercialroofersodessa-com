@@ -1,0 +1,65 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofersodessa.com",
+  "images": {
+    "/assets-f/img/954be222c12890.jpg": "/performance/roofing-v1/bd47a5eb21285fd28ab1610c.webp",
+    "/assets-f/img/bfef05e1ba2993.jpg": "/performance/roofing-v1/1036ac2fd15e87d6db132541.webp",
+    "/images/brand/logo-on-dark.png": "/performance/roofing-v1/cd8ff4e8da62adc18e200d52.webp",
+    "/images/brand/logo-on-light.png": "/performance/roofing-v1/cd8da5ace1f0ae4ce4b2c2ff.webp",
+    "/ours/roof-systems/pvc-roof-systems-commercial-roofers-odessa-tx.webp": "/performance/roofing-v1/4ca9ec6e7fef45dbf86ce365.webp",
+    "/ours/roof-systems/silicone-roof-coating-commercial-roofers-odessa-tx.webp": "/performance/roofing-v1/1a8d75dc49610eba18d551f5.webp"
+  },
+  "assets": [
+    {
+      "from": "/assets-f/img/954be222c12890.jpg",
+      "to": "/performance/roofing-v1/bd47a5eb21285fd28ab1610c.webp",
+      "width": 700,
+      "height": 467,
+      "beforeBytes": 86225,
+      "afterBytes": 57196
+    },
+    {
+      "from": "/assets-f/img/bfef05e1ba2993.jpg",
+      "to": "/performance/roofing-v1/1036ac2fd15e87d6db132541.webp",
+      "width": 700,
+      "height": 467,
+      "beforeBytes": 96936,
+      "afterBytes": 64378
+    },
+    {
+      "from": "/images/brand/logo-on-dark.png",
+      "to": "/performance/roofing-v1/cd8ff4e8da62adc18e200d52.webp",
+      "width": 1124,
+      "height": 243,
+      "beforeBytes": 167194,
+      "afterBytes": 110080
+    },
+    {
+      "from": "/images/brand/logo-on-light.png",
+      "to": "/performance/roofing-v1/cd8da5ace1f0ae4ce4b2c2ff.webp",
+      "width": 1104,
+      "height": 223,
+      "beforeBytes": 152074,
+      "afterBytes": 102258
+    },
+    {
+      "from": "/ours/roof-systems/pvc-roof-systems-commercial-roofers-odessa-tx.webp",
+      "to": "/performance/roofing-v1/4ca9ec6e7fef45dbf86ce365.webp",
+      "width": 2400,
+      "height": 1792,
+      "beforeBytes": 221184,
+      "afterBytes": 163856
+    },
+    {
+      "from": "/ours/roof-systems/silicone-roof-coating-commercial-roofers-odessa-tx.webp",
+      "to": "/performance/roofing-v1/1a8d75dc49610eba18d551f5.webp",
+      "width": 1895,
+      "height": 980,
+      "beforeBytes": 138508,
+      "afterBytes": 101276
+    }
+  ],
+  "createdAt": "2026-11-21T04:30:05.739Z",
+  "fonts": [],
+  "fontFailures": []
+}
